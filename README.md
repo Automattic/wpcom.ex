@@ -1,5 +1,11 @@
 # wpcom.ex
 
-Barebones WP.com HTTP API client
+Official Elixir library for the WordPress.com REST API.
 
-**TODO: Put more meat on these bones.
+## Synchronous
+
+Offers `GET`, `POST`, `PUT`, `DELETE` synchronous calls via `Wpcom.Call`.
+
+## Asynchronous
+
+Offers `POST`, `PUT`, `DELETE` asynchronous "fire and forget" casts via `Wpcom.Cast`.

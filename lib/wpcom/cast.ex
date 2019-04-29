@@ -34,7 +34,7 @@ defmodule Wpcom.Cast do
             {:cont, resp}
 
           {_, resp} ->
-            Logger.debug("http req cast succeeded", resp: resp)
+            Logger.debug("#{inspect(self())} http req cast succeeded.", resp: resp)
             {:halt, resp}
         end
       end

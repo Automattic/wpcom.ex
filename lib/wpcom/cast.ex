@@ -1,19 +1,26 @@
 defmodule Wpcom.Cast do
   @moduledoc """
-  Asynchronous HTTP request functions--we don't care if they succeeded or
-  failed--for the WordPress.com REST API
+  Asynchronous HTTP request functions with infinite exponential retry
+  to the WordPress.com REST API.
   """
-
+  use Retry
   require Logger
 
   @doc "Performs asynchronous POST request to the WP.com API"
   @spec post(String.t(), String.t(), [{String.t(), String.t()}]) :: {:ok, pid()}
   def post(path, body, headers \\ []) do
     Task.start(fn ->
-      {result, resp} = Wpcom.Req.request(:post, path, headers, body)
+      retry_while with: exponential_backoff(2000) |> randomize() do
+        Wpcom.Req.request(:post, path, headers, body)
+        |> case do
+          {:error, resp} ->
+            Logger.warn("http req cast failed!", resp: resp)
+            {:cont, resp}
 
-      if :error == result do
-        Logger.warn("http req cast failed!", resp)
+          {_, resp} ->
+            Logger.info("http req cast succeeded.", resp: resp)
+            {:halt, resp}
+        end
       end
     end)
   end

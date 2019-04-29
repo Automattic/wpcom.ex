@@ -3,17 +3,45 @@ defmodule Wpcom do
   wpcom.ex is the official Elixir library for the WordPress.com REST API
   """
 
-  @doc "This function switches the library to the supplied api version."
+  @default_api :restV11
+  @api_base %{
+    restV1: "https://public-api.wordpress.com/rest/v1",
+    restV11: "https://public-api.wordpress.com/rest/v1.1",
+    wpV2: "https://public-api.wordpress.com/wp/v2",
+    wpcomV2: "https://public-api.wordpress.com/wpcom/v2"
+  }
+
+  @doc "Fetches api version config value if it exists and valid; default if not."
+  @spec get_api_version() :: :restV1 | :restV11 | :wpV2 | :wpcomV2
+  def get_api_version do
+    version = Application.get_env(:wpcom, :api_version)
+
+    if @api_base[version] do
+      version
+    else
+      @default_api
+    end
+  end
+
+  @doc "Switches wpcom.ex to the supplied api version."
   @spec switch_api_version(:restV1 | :restV11 | :wpV2 | :wpcomV2) :: :ok
   def switch_api_version(new_version) do
     Application.put_env(:wpcom, :api_version, new_version)
   end
 
-  @doc "This function builds a full API url using the supplied path."
-  @spec api_url(String.t()) :: String.t()
-  def api_url(endpoint) do
-    version = Application.get_env(:wpcom, :api_version)
-    base_url = Application.get_env(:wpcom, version) || Application.get_env(:wpcom, :restV11)
-    base_url |> Path.join(endpoint)
+  @doc "Builds api base URL."
+  @spec api_base(:restV1 | :restV11 | :wpV2 | :wpcomV2) :: String.t()
+  def api_base(version) do
+    Map.get(@api_base, version, @api_base[:restV11])
+  end
+
+  @doc "Builds a full API url using the supplied path and optional api version."
+  @spec api_url(String.t(), :restV1 | :restV11 | :wpV2 | :wpcomV2 | nil) :: String.t()
+  def api_url(endpoint, api_version \\ nil) do
+    version = api_version || get_api_version()
+
+    version
+    |> api_base()
+    |> Path.join(endpoint)
   end
 end

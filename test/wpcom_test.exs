@@ -1,8 +1,8 @@
 defmodule WpcomTest do
   use ExUnit.Case
 
-  @baseurlV11 Application.get_env(:wpcom, :restV11)
-  @baseurlwpcomV2 Application.get_env(:wpcom, :wpcomV2)
+  @baseurlV11 "https://public-api.wordpress.com/rest/v1.1"
+  @baseurlwpcomV2 "https://public-api.wordpress.com/wpcom/v2"
 
   setup do
     Wpcom.switch_api_version(:restV11)
@@ -18,6 +18,18 @@ defmodule WpcomTest do
 
   test "api_url with all the slashes" do
     assert Wpcom.api_url("/whatever/") == @baseurlV11 <> "/whatever"
+  end
+
+  test "api get version" do
+    assert Wpcom.get_api_version() == :restV11
+  end
+
+  test "api get base url" do
+    assert Wpcom.api_base(:wpcomV2) == @baseurlwpcomV2
+  end
+
+  test "broken api get base url" do
+    assert Wpcom.api_base(:crazyapiV9) == @baseurlV11
   end
 
   test "api switch attempt" do

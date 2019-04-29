@@ -4,6 +4,10 @@ defmodule WpcomTest do
   @baseurlV11 Application.get_env(:wpcom, :restV11)
   @baseurlwpcomV2 Application.get_env(:wpcom, :wpcomV2)
 
+  setup do
+    Wpcom.switch_api_version(:restV11)
+  end
+
   test "api_url no slash" do
     assert Wpcom.api_url("whatever") == @baseurlV11 <> "/whatever"
   end

@@ -15,7 +15,7 @@ defmodule Wpcom.Call do
   @doc "Performs a synchronous POST request to the WP.com API"
   @spec post(
           String.t(),
-          String.t(),
+          %{} | String.t(),
           [{String.t(), String.t()}]
         ) :: {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
   def post(path, body, headers \\ []) do
@@ -25,7 +25,7 @@ defmodule Wpcom.Call do
   @doc "Aliased to post/3. Performs a synchronous POST request to the WP.com API"
   @spec put(
           String.t(),
-          String.t(),
+          %{} | String.t(),
           [{String.t(), String.t()}]
         ) :: {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
   def put(path, body, headers \\ []) do

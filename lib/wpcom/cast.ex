@@ -25,7 +25,7 @@ defmodule Wpcom.Cast do
   end
 
   @doc "Aliased to post/3. Performs asynchronous POST request to the WP.com API"
-  @spec put(String.t(), String.t(), [{String.t(), String.t()}]) :: {:ok, pid()}
+  @spec put(String.t(), %{} | String.t(), [{String.t(), String.t()}]) :: {:ok, pid()}
   def put(path, body, headers \\ []) do
     post(path, body, headers)
   end

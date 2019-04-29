@@ -18,7 +18,6 @@ defmodule Wpcom.Cast do
             {:cont, resp}
 
           {_, resp} ->
-            Logger.info("http req cast succeeded.", resp: resp)
             {:halt, resp}
         end
       end

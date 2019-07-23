@@ -20,11 +20,16 @@ defmodule Wpcom.Req do
   @spec request(:get | :post, String.t(), [{String.t(), String.t()}], String.t()) ::
           {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
   def request(method, path, custom_headers, body) do
+    headers = custom_headers ++ [{"User-Agent", "wpcom.ex/" <> version()}]
 
     HTTPoison.request(method, api_url(path), body, headers)
     |> case do
       {:ok, response} -> {:ok, Jason.decode!(response.body)}
       {:error, response} -> {:error, response.reason}
     end
+  end
+
+  defp version do
+    Application.spec(:wpcom, :vsn) |> to_string()
   end
 end

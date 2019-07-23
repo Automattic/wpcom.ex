@@ -4,6 +4,7 @@ defmodule Wpcom do
   """
 
   @default_api :restV11
+  @api_base_override Application.get_env(:wpcom, :api_base_override)
   @api_base %{
     restV1: "https://public-api.wordpress.com/rest/v1",
     restV11: "https://public-api.wordpress.com/rest/v1.1",
@@ -32,7 +33,7 @@ defmodule Wpcom do
   @doc "Builds api base URL."
   @spec api_base(:restV1 | :restV11 | :wpV2 | :wpcomV2) :: String.t()
   def api_base(version) do
-    Map.get(@api_base, version, @api_base[:restV11])
+    @api_base_override || Map.get(@api_base, version, @api_base[@default_api])
   end
 
   @doc "Builds a full API url using the supplied path and optional api version."

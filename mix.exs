@@ -23,7 +23,7 @@ defmodule Wpcom.MixProject do
     [
       {:jason, "~> 1.1"},
       {:httpoison, "~> 1.5"},
-      {:retry, "~> 0.11"},
+      {:retry, "~> 0.13"},
       {:dialyxir, "~> 1.0.0-rc.6", only: :dev, runtime: false},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]

@@ -11,14 +11,14 @@ defmodule Wpcom.Req do
   def request(method, path, custom_headers \\ [], body \\ "")
 
   @spec request(:get | :post, String.t(), [{String.t(), String.t()}], %{}) ::
-          {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
+          {:error, any()} | {:ok, any()}
   def request(method, path, custom_headers, body) when is_map(body) do
     headers = custom_headers ++ [{"Content-Type", "application/json"}]
     request(method, path, headers, Jason.encode!(body))
   end
 
   @spec request(:get | :post, String.t(), [{String.t(), String.t()}], String.t()) ::
-          {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
+          {:error, any()} | {:ok, any()}
   def request(method, path, custom_headers, body) do
     headers = custom_headers ++ [{"User-Agent", "wpcom.ex/" <> version()}]
 

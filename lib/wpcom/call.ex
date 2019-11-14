@@ -7,7 +7,7 @@ defmodule Wpcom.Call do
   @spec get(
           String.t(),
           [{String.t(), String.t()}]
-        ) :: {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
+        ) :: {:error, any()} | {:ok, any()}
   def get(path, headers \\ []) do
     Wpcom.Req.request(:get, path, headers)
   end
@@ -17,7 +17,7 @@ defmodule Wpcom.Call do
           String.t(),
           %{} | String.t(),
           [{String.t(), String.t()}]
-        ) :: {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
+        ) :: {:error, any()} | {:ok, any()}
   def post(path, body, headers \\ []) do
     Wpcom.Req.request(:post, path, headers, body)
   end
@@ -27,7 +27,7 @@ defmodule Wpcom.Call do
           String.t(),
           %{} | String.t(),
           [{String.t(), String.t()}]
-        ) :: {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
+        ) :: {:error, any()} | {:ok, any()}
   def put(path, body, headers \\ []) do
     post(path, body, headers)
   end
@@ -36,7 +36,7 @@ defmodule Wpcom.Call do
   @spec del(
           String.t(),
           [{String.t(), String.t()}]
-        ) :: {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
+        ) :: {:error, any()} | {:ok, any()}
   def del(path, headers) do
     post(path, "", headers)
   end

@@ -9,7 +9,7 @@ defmodule Wpcom.Req do
 
   @type http_header :: {String.t(), String.t()}
   @type http_headers :: [http_header]
-  @type http_response :: {:ok, Mojito.response()} | {:error, Mojito.error()} | no_return
+  @type http_response :: {:ok, String.t() | map} | {:error, Mojito.error()} | no_return
 
   @doc "Make a request to WP.com REST API."
   @spec request(:get | :post, String.t(), http_headers, String.t() | map) :: http_response
@@ -25,8 +25,15 @@ defmodule Wpcom.Req do
 
     Mojito.request(method, api_url(path), headers, body)
     |> case do
-      {:ok, response} -> {:ok, Jason.decode!(response.body)}
-      {:error, response} -> {:error, response.reason}
+      {:ok, response} -> {:ok, maybe_decode(response.body)}
+      error -> error
+    end
+  end
+
+  defp maybe_decode(string) do
+    case Jason.decode(string) do
+      {:ok, json} -> json
+      _ -> string
     end
   end
 

@@ -11,6 +11,7 @@ defmodule Wpcom.Req do
   @type http_headers :: [http_header]
   @type http_response :: {:ok, Mojito.response()} | {:error, Mojito.error()} | no_return
 
+  @doc "Make a request to WP.com REST API."
   @spec request(:get | :post, String.t(), http_headers, String.t() | map) :: http_response
   def request(method, path, custom_headers \\ [], body \\ "")
 

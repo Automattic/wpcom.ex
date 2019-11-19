@@ -1,4 +1,5 @@
-use Mix.Config
+import Mix.Config
 
 config :logger, level: :warn
-config :wpcom, auth_token_for_unit_tests: ""
+
+import_config "*.dev.secret.exs"

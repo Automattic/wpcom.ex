@@ -7,25 +7,33 @@ defmodule Wpcom.Req do
 
   import Wpcom, only: [api_url: 1]
 
+  @type http_header :: {String.t(), String.t()}
+  @type http_headers :: [http_header]
+  @type http_response :: {:ok, String.t() | map} | {:error, Mojito.error()} | no_return
+
   @doc "Make a request to WP.com REST API."
+  @spec request(:get | :post, String.t(), http_headers, String.t() | map) :: http_response
   def request(method, path, custom_headers \\ [], body \\ "")
 
-  @spec request(:get | :post, String.t(), [{String.t(), String.t()}], %{}) ::
-          {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
   def request(method, path, custom_headers, body) when is_map(body) do
     headers = custom_headers ++ [{"Content-Type", "application/json"}]
     request(method, path, headers, Jason.encode!(body))
   end
 
-  @spec request(:get | :post, String.t(), [{String.t(), String.t()}], String.t()) ::
-          {:error, HTTPoison.Error.t()} | {:ok, HTTPoison.Response.t()}
   def request(method, path, custom_headers, body) do
     headers = custom_headers ++ [{"User-Agent", "wpcom.ex/" <> version()}]
 
-    HTTPoison.request(method, api_url(path), body, headers)
+    Mojito.request(method, api_url(path), headers, body)
     |> case do
-      {:ok, response} -> {:ok, Jason.decode!(response.body)}
-      {:error, response} -> {:error, response.reason}
+      {:ok, response} -> {:ok, maybe_decode(response.body)}
+      error -> error
+    end
+  end
+
+  defp maybe_decode(string) do
+    case Jason.decode(string) do
+      {:ok, json} -> json
+      _ -> string
     end
   end
 

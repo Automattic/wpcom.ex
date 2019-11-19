@@ -23,7 +23,7 @@ defmodule Wpcom.Cast do
   an exponential backoff up to the the backoff cap and then
   continues retrying (indefinitely) at that pace.
   """
-  @spec post(String.t(), %{} | String.t(), [{String.t(), String.t()}]) :: {:ok, pid()}
+  @spec post(String.t(), %{} | String.t(), Wpcom.Req.http_headers()) :: {:ok, pid()}
   def post(path, body, headers \\ []) do
     Task.start(fn ->
       retry_while with: exponential_backoff(2000) |> cap(@max_backoff) |> randomize() do
@@ -42,13 +42,13 @@ defmodule Wpcom.Cast do
   end
 
   @doc "Aliased to post/3. Performs asynchronous POST request to the WP.com API"
-  @spec put(String.t(), %{} | String.t(), [{String.t(), String.t()}]) :: {:ok, pid()}
+  @spec put(String.t(), %{} | String.t(), Wpcom.Req.http_headers()) :: {:ok, pid()}
   def put(path, body, headers \\ []) do
     post(path, body, headers)
   end
 
   @doc "Aliased to post/3. Performs asynchronous DELETE request to the WP.com API"
-  @spec del(String.t(), [{String.t(), String.t()}]) :: {:ok, pid()}
+  @spec del(String.t(), Wpcom.Req.http_headers()) :: {:ok, pid()}
   def del(path, headers) do
     post(path, "", headers)
   end

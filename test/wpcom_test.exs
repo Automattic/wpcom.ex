@@ -41,4 +41,19 @@ defmodule WpcomTest do
     Wpcom.switch_api_version(:badapiV3)
     assert Wpcom.api_url("/whatever") == @baseurlV11 <> "/whatever"
   end
+
+  test "generate wpcom oauth url" do
+    assert Wpcom.oauth_authorize_url(42, "http://localhost:4000/something") ==
+             "https://public-api.wordpress.com/oauth2/authorize?client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code&scope=auth"
+  end
+
+  test "generate wpcom oauth url with specific blog" do
+    assert Wpcom.oauth_authorize_url(42, "http://localhost:4000/something", :auth, 740) ==
+             "https://public-api.wordpress.com/oauth2/authorize?blog=740&client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code&scope=auth"
+  end
+
+  test "generate wpcom oauth url with global scope" do
+    assert Wpcom.oauth_authorize_url(42, "http://localhost:4000/something", :global) ==
+             "https://public-api.wordpress.com/oauth2/authorize?client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code&scope=global"
+  end
 end

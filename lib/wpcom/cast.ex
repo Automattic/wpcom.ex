@@ -13,6 +13,8 @@ defmodule Wpcom.Cast do
   use Retry
   require Logger
 
+  import Wpcom, only: [api_url: 1]
+
   @minute_in_ms 60_000
   @max_backoff 60 * @minute_in_ms
 
@@ -27,7 +29,7 @@ defmodule Wpcom.Cast do
   def post(path, body, headers \\ []) do
     Task.start(fn ->
       retry_while with: exponential_backoff(2000) |> cap(@max_backoff) |> randomize() do
-        Wpcom.Req.request(:post, path, headers, body)
+        Wpcom.Req.request(:post, api_url(path), headers, body)
         |> case do
           {:error, resp} ->
             Logger.warn("#{inspect(self())} http req cast failed!", resp: resp)

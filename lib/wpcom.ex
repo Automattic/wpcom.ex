@@ -96,7 +96,7 @@ defmodule Wpcom do
         redirect_uri,
         grant_type \\ :authorization_code
       ) do
-    headers = [{"content-type", "application/x-www-form-urlencoded"}]
+    headers = [{"Content-Type", "application/x-www-form-urlencoded"}]
 
     body =
       URI.encode_query(%{
@@ -107,7 +107,7 @@ defmodule Wpcom do
         grant_type: grant_type
       })
 
-    Wpcom.Call.post(@oauth_token_url, body, headers)
+    Wpcom.Req.request(:post, @oauth_token_url, headers, body)
   end
 
   defp maybe_put(map, _key, nil), do: map

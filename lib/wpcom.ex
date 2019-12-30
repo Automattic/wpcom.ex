@@ -87,12 +87,12 @@ defmodule Wpcom do
 
   Requires a previously returned auth code.
   """
-  @spec retrieve_oauth_token(String.t(), pos_integer(), String.t(), String.t(), grant_type) ::
+  @spec retrieve_oauth_token(pos_integer(), String.t(), String.t(), String.t(), grant_type) ::
           Wpcom.Req.http_response()
   def retrieve_oauth_token(
-        oauth_code,
         client_id,
         client_secret,
+        oauth_code,
         redirect_uri,
         grant_type \\ :authorization_code
       ) do

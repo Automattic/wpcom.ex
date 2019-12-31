@@ -14,14 +14,14 @@ defmodule Wpcom.Req do
   def request(method, url, custom_headers \\ [], body \\ "")
 
   def request(method, url, custom_headers, body) when is_map(body) do
-    headers = custom_headers ++ [{"Content-Type", "application/json"}]
+    headers = custom_headers ++ [{"content-type", "application/json"}]
     request(method, url, headers, Jason.encode!(body))
   end
 
   def request(method, url, custom_headers, body) do
-    headers = custom_headers ++ [{"User-Agent", "wpcom.ex/" <> version()}]
+    headers = custom_headers ++ [{"user-agent", "wpcom.ex/" <> version()}]
 
-    Mojito.request(method, url, headers, body)
+    Mojito.request(method, url, headers, body, pool: false)
     |> case do
       {:ok, response} -> {:ok, maybe_decode(response.body)}
       error -> error

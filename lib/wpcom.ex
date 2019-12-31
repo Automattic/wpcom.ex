@@ -96,7 +96,7 @@ defmodule Wpcom do
         redirect_uri,
         grant_type \\ :authorization_code
       ) do
-    headers = [{"Content-Type", "application/x-www-form-urlencoded"}]
+    headers = [{"content-type", "application/x-www-form-urlencoded"}]
 
     body =
       URI.encode_query(%{

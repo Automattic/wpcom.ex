@@ -18,7 +18,7 @@ defmodule Wpcom.Cast do
   @minute_in_ms 60_000
   @max_backoff 60 * @minute_in_ms
 
-  @type api_version :: Wpcom.api_version()
+  @type api_version :: Wpcom.api_version() | nil
   @type http_headers :: Wpcom.Req.http_headers()
   @type http_response :: Wpcom.Req.http_response()
 

@@ -5,7 +5,7 @@ defmodule Wpcom.Call do
 
   import Wpcom, only: [api_url: 2]
 
-  @type api_version :: Wpcom.api_version()
+  @type api_version :: Wpcom.api_version() | nil
   @type http_headers :: Wpcom.Req.http_headers()
   @type http_response :: Wpcom.Req.http_response()
 

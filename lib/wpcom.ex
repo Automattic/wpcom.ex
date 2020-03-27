@@ -14,6 +14,7 @@ defmodule Wpcom do
   @oauth_authorize_url "https://public-api.wordpress.com/oauth2/authorize"
   @oauth_token_url "https://public-api.wordpress.com/oauth2/token"
 
+  @type api_version :: :restV1 | :restV11 | :wpV2 | :wpcomV2
   @type blog_id :: pos_integer() | nil
   @type grant_type ::
           :authorization_code | :client_credentials | :password | :wpcom_exchange_token
@@ -22,7 +23,7 @@ defmodule Wpcom do
   @doc """
   Fetches api version config value if it exists and valid; default if not.
   """
-  @spec get_api_version() :: :restV1 | :restV11 | :wpV2 | :wpcomV2
+  @spec get_api_version() :: api_version()
   def get_api_version do
     version = Application.get_env(:wpcom, :api_version)
 
@@ -36,7 +37,7 @@ defmodule Wpcom do
   @doc """
   Switches wpcom.ex to the supplied api version.
   """
-  @spec switch_api_version(:restV1 | :restV11 | :wpV2 | :wpcomV2) :: :ok
+  @spec switch_api_version(api_version()) :: :ok
   def switch_api_version(new_version) do
     Application.put_env(:wpcom, :api_version, new_version)
   end
@@ -44,7 +45,7 @@ defmodule Wpcom do
   @doc """
   Builds api base URL.
   """
-  @spec api_base(:restV1 | :restV11 | :wpV2 | :wpcomV2) :: String.t()
+  @spec api_base(api_version()) :: String.t()
   def api_base(version) do
     @api_base_override || Map.get(@api_base, version, @api_base[@default_api])
   end
@@ -52,7 +53,7 @@ defmodule Wpcom do
   @doc """
   Builds a full API url using the supplied path and optional api version.
   """
-  @spec api_url(String.t(), :restV1 | :restV11 | :wpV2 | :wpcomV2 | nil) :: String.t()
+  @spec api_url(String.t(), api_version() | nil) :: String.t()
   def api_url(endpoint, api_version \\ nil) do
     version = api_version || get_api_version()
 

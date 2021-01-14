@@ -12,5 +12,5 @@
   "mojito": {:hex, :mojito, "0.7.2", "8790f23c99b5223c3a874d3c874ade200ac79495a4bc1eccc7786e968b6b7fa9", [:mix], [{:castore, "~> 0.1", [hex: :castore, repo: "hexpm", optional: false]}, {:mint, "~> 1.0", [hex: :mint, repo: "hexpm", optional: false]}, {:poolboy, "~> 1.5", [hex: :poolboy, repo: "hexpm", optional: false]}], "hexpm", "a3efe3b3654353520fb445bfdbc411c46ef8f837e6e79d60aaac26d41b621bd7"},
   "nimble_parsec": {:hex, :nimble_parsec, "1.1.0", "3a6fca1550363552e54c216debb6a9e95bd8d32348938e13de5eda962c0d7f89", [:mix], [], "hexpm", "08eb32d66b706e913ff748f11694b17981c0b04a33ef470e33e11b3d3ac8f54b"},
   "poolboy": {:hex, :poolboy, "1.5.2", "392b007a1693a64540cead79830443abf5762f5d30cf50bc95cb2c1aaafa006b", [:rebar3], [], "hexpm", "dad79704ce5440f3d5a3681c8590b9dc25d1a561e8f5a9c995281012860901e3"},
-  "retry": {:hex, :retry, "0.14.0", "751c0f6db0b5127acf346ea6f6c363ec4588320db785c62aa51776b4d280bf07", [:mix], [], "hexpm", "5c158bccf5e4de2a13d044b9930ceb7e7499c29e3fccd7c96f131a6b83a1cff3"},
+  "retry": {:hex, :retry, "0.14.1", "722d1b0cf87096b71213f5801d99fface7ca76adc83fc9dbf3e1daee952aef10", [:mix], [], "hexpm", "b3a609f286f6fe4f6b2c15f32cd4a8a60427d78d05d7b68c2dd9110981111ae0"},
 }

@@ -24,7 +24,7 @@ defmodule Wpcom.MixProject do
       {:jason, "~> 1.1"},
       {:mojito, "~> 0.7.2"},
       {:retry, "~> 0.13"},
-      {:dialyxir, "~> 1.0.0-rc.7", only: :dev, runtime: false},
+      {:dialyxir, "~> 1.1.0", only: :dev, runtime: false},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]
   end

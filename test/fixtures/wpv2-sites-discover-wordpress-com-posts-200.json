@@ -1,0 +1,2761 @@
+[
+    {
+        "id": 42956,
+        "date": "2020-08-28T09:00:26",
+        "date_gmt": "2020-08-28T13:00:26",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42956"
+        },
+        "modified": "2020-08-13T19:43:03",
+        "modified_gmt": "2020-08-13T23:43:03",
+        "slug": "journeymans-journal",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/28\/journeymans-journal\/",
+        "title": {
+            "rendered": "Journeyman&#8217;s Journal"
+        },
+        "content": {
+            "rendered": "<p>A blog by third-generation woodworker Salko Safic on the art of woodworking by hand.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>A blog by third-generation woodworker Salko Safic on the art of woodworking by hand.<\/p>\n",
+            "protected": false
+        },
+        "author": 118930156,
+        "featured_media": 42963,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "Journeyman's Journal \u2014 delve into the art of woodworking by hand.",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            177,
+            8762,
+            148
+        ],
+        "tags": [
+            14877,
+            370188,
+            38180,
+            44926
+        ],
+        "discover_fp_post_format": [
+            346750,
+            337879995
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 8004,
+                "url": "https:\/\/discover.wordpress.com\/2015\/12\/27\/lost-art-press\/",
+                "url_meta": {
+                    "origin": 42956,
+                    "position": 0
+                },
+                "title": "Lost Art Press",
+                "date": "December 27, 2015",
+                "format": false,
+                "excerpt": "Lost Art Press is a small Midwestern publishing company run by Christopher Schwarz and John Hoffman, \"two woodworkers with laptops.\" They seek to help the modern woodworker learn traditional (and disappearing) hand-tool skills.",
+                "rel": "",
+                "context": "In \"Art\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/12\/roubo_grease_box_curve_img_9778.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 5197,
+                "url": "https:\/\/discover.wordpress.com\/2015\/06\/26\/jeff-branch-woodworking\/",
+                "url_meta": {
+                    "origin": 42956,
+                    "position": 1
+                },
+                "title": "Jeff Branch Woodworking",
+                "date": "June 26, 2015",
+                "format": false,
+                "excerpt": "Welcome to Jeff Branch's woodworking journal. He's been building furniture in his basement for 30 years. For each project, Jeff shares his process. Many projects offer a free plan you can download.",
+                "rel": "",
+                "context": "In \"Art\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/06\/jeffbranchplan.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 27619,
+                "url": "https:\/\/discover.wordpress.com\/2017\/08\/12\/david-walbert\/",
+                "url_meta": {
+                    "origin": 42956,
+                    "position": 2
+                },
+                "title": "David Walbert",
+                "date": "August 12, 2017",
+                "format": false,
+                "excerpt": "Writer and crafstman David Walbert publishes thoughtful essays, observations, poems, stories, and other formats on history, food and agriculture, culture and religion, education, and craft work.",
+                "rel": "",
+                "context": "In \"Authors\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/08\/screen-shot-2017-08-01-at-11-23-42-am.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 26720,
+                "url": "https:\/\/discover.wordpress.com\/2017\/07\/11\/making-things-work\/",
+                "url_meta": {
+                    "origin": 42956,
+                    "position": 3
+                },
+                "title": "Making Things Work",
+                "date": "July 11, 2017",
+                "format": false,
+                "excerpt": "Making Things Work is the blog of Nancy R. Hiller, a cabinetmaker specializing in period-authentic custom furniture and cabinetry for homes, offices, and other spaces. Nancy's writing on her craft (and other topics) is engaging and thoughtful.",
+                "rel": "",
+                "context": "In \"Authors\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/07\/making-things-work.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 31869,
+                "url": "https:\/\/discover.wordpress.com\/2018\/02\/15\/sell-art-crafts\/",
+                "url_meta": {
+                    "origin": 42956,
+                    "position": 4
+                },
+                "title": "Your Site Is Your Marketplace: Techniques to Sell Your Arts and&nbsp;Crafts",
+                "date": "February 15, 2018",
+                "format": false,
+                "excerpt": "These artists and builders promote and sell their artwork on their sites.",
+                "rel": "",
+                "context": "In \"Art\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2018\/02\/get-archd.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 33454,
+                "url": "https:\/\/discover.wordpress.com\/2018\/04\/24\/create-value-through-content\/",
+                "url_meta": {
+                    "origin": 42956,
+                    "position": 5
+                },
+                "title": "Create Value Through Your Content: How to Be a Resource for Your&nbsp;Readers",
+                "date": "April 24, 2018",
+                "format": false,
+                "excerpt": "These WordPress.com Business websites offer valuable content to their readers.",
+                "rel": "",
+                "context": "In \"Business\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2018\/04\/create-value-through-content-featured-image.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-13-at-4.31.42-pm.png",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-baQ",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42956"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/118930156"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42956"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42956\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42965,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42956\/revisions\/42965"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42963"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42956"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42956"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42956"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42956"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42960,
+        "date": "2020-08-21T09:00:26",
+        "date_gmt": "2020-08-21T13:00:26",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42960"
+        },
+        "modified": "2020-08-13T19:23:40",
+        "modified_gmt": "2020-08-13T23:23:40",
+        "slug": "a-dollop-of-history",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/21\/a-dollop-of-history\/",
+        "title": {
+            "rendered": "A Dollop of&nbsp;History"
+        },
+        "content": {
+            "rendered": "<p>A blog about medieval food, with recipes to bring the past to life! Fourteenth-century mushroom pasties anyone?<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>A blog about medieval food, with recipes to bring the past to life! Fourteenth-century mushroom pasties anyone?<\/p>\n",
+            "protected": false
+        },
+        "author": 118930156,
+        "featured_media": 42961,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "A Dollop of History is a blog that brings you medieval cooking recipes!",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            586,
+            678
+        ],
+        "tags": [
+            1871527,
+            81480,
+            18154908
+        ],
+        "discover_fp_post_format": [
+            346750,
+            337879995
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 26120,
+                "url": "https:\/\/discover.wordpress.com\/2017\/06\/05\/england-racism-multilingualism-medieval-studies\/",
+                "url_meta": {
+                    "origin": 42960,
+                    "position": 0
+                },
+                "title": "Inventing (the) English: Racism, Multilingualism and Medieval&nbsp;Studies",
+                "date": "June 5, 2017",
+                "format": false,
+                "excerpt": "\"The medieval past is being weaponised by a group of people who would be disgusted by the reality of the racial past they so fondly imagine.\" Rachel Moss on the alt-right's fascination with (and distortion of) medieval history.",
+                "rel": "",
+                "context": "In \"Commentary\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/06\/armor-2144638_1920.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 7609,
+                "url": "https:\/\/discover.wordpress.com\/2015\/12\/14\/medieval-selfies-2\/",
+                "url_meta": {
+                    "origin": 42960,
+                    "position": 1
+                },
+                "title": "Medieval Selfies",
+                "date": "December 14, 2015",
+                "format": false,
+                "excerpt": "Book historian Erik Kwakkel, based in the Netherlands, explores early self-portraits of medieval book artisans and scribes on his blog, Medieval Books.",
+                "rel": "",
+                "context": "In \"Art\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/06\/stuttgart-wuerttembergische-landesbibliothek-cod-mus-i-2-65-fol-236v-detail.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 3336,
+                "url": "https:\/\/discover.wordpress.com\/2015\/05\/13\/merry-xmas-an-illustrated-history\/",
+                "url_meta": {
+                    "origin": 42960,
+                    "position": 2
+                },
+                "title": "Merry Xmas! An Illustrated&nbsp;History",
+                "date": "May 13, 2015",
+                "format": false,
+                "excerpt": "\"So, not only is X old as balls, in the medieval period it was even more powerful than Christ.\" At So Long As It's Words, medievalist and linguist Kate Wiles offers an illustrated history of the \"X\" in \"Xmas.\"",
+                "rel": "",
+                "context": "In \"History\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/05\/xpadd37517-135v-a.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 24181,
+                "url": "https:\/\/discover.wordpress.com\/2017\/04\/07\/a-wonder-of-the-multicultural-medieval-world-the-tabula-rogeriana\/",
+                "url_meta": {
+                    "origin": 42960,
+                    "position": 3
+                },
+                "title": "A Wonder of the Multicultural Medieval World: The Tabula&nbsp;Rogeriana",
+                "date": "April 7, 2017",
+                "format": false,
+                "excerpt": "Do maps reflect your worldview -- or shape it? Meet the genius 12th-century cartographer you've never heard of,\u00a0al-Idrisi, and his marvelous multicultural map.",
+                "rel": "",
+                "context": "In \"Culture\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/03\/tabularogeriana.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 28748,
+                "url": "https:\/\/discover.wordpress.com\/2017\/09\/14\/the-public-medievalist\/",
+                "url_meta": {
+                    "origin": 42960,
+                    "position": 4
+                },
+                "title": "The Public Medievalist",
+                "date": "September 14, 2017",
+                "format": false,
+                "excerpt": "From Game of Thrones to white-supremacist imagery, echoes of medieval culture are part of the current moment. The Public Medievalist is a webzine that explores the intersection of medieval history and modern politics and culture.",
+                "rel": "",
+                "context": "In \"Art\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/05\/cathedral.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 14747,
+                "url": "https:\/\/discover.wordpress.com\/2016\/06\/10\/at-sea-being-more-than-mother\/",
+                "url_meta": {
+                    "origin": 42960,
+                    "position": 5
+                },
+                "title": "At Sea: Being More Than&nbsp;Mother",
+                "date": "June 10, 2016",
+                "format": false,
+                "excerpt": "Rachel Moss, University of Oxford lecturer on medieval history, reflects on women whose identities as \"mum\" get buried in the historical and literary record.",
+                "rel": "",
+                "context": "In \"Commentary\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/05\/18927074964_2f841fbcc7_h.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-13-at-4.16.41-pm.png",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-baU",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42960"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/118930156"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42960"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42960\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42962,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42960\/revisions\/42962"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42961"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42960"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42960"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42960"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42960"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42952,
+        "date": "2020-08-14T09:00:33",
+        "date_gmt": "2020-08-14T13:00:33",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42952"
+        },
+        "modified": "2020-08-13T17:51:13",
+        "modified_gmt": "2020-08-13T21:51:13",
+        "slug": "neuroscience-news",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/14\/neuroscience-news\/",
+        "title": {
+            "rendered": "Neuroscience News"
+        },
+        "content": {
+            "rendered": "<p>Neuroscience News research articles cover neurology, psychology, AI, brain science, mental health, robotics and cognitive sciences in a free, open access magazine.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Neuroscience News research articles cover neurology, psychology, AI, brain science, mental health, robotics and cognitive sciences in a free, open access magazine.<\/p>\n",
+            "protected": false
+        },
+        "author": 118930156,
+        "featured_media": 42953,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "Keep up to date with developments in neurology with the #PoweredByWordPress blog Neuroscience News",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            6942,
+            1591
+        ],
+        "tags": [
+            14067,
+            221275,
+            9644687,
+            22330,
+            27026,
+            4909,
+            13426
+        ],
+        "discover_fp_post_format": [
+            346750,
+            337879995
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 7968,
+                "url": "https:\/\/discover.wordpress.com\/2015\/12\/26\/knowing-neurons\/",
+                "url_meta": {
+                    "origin": 42952,
+                    "position": 0
+                },
+                "title": "Knowing Neurons",
+                "date": "December 26, 2015",
+                "format": false,
+                "excerpt": "A group of\u00a0neuroscience grad students\u00a0share interesting stories and infographics from the forefront of their discipline, making brain research approachable for the masses.",
+                "rel": "",
+                "context": "In \"Science\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/12\/eyewirecover.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 25088,
+                "url": "https:\/\/discover.wordpress.com\/2017\/05\/03\/the-backfire-effect\/",
+                "url_meta": {
+                    "origin": 42952,
+                    "position": 1
+                },
+                "title": "&#8220;The Backfire Effect&#8221; Is the Cognitive Concept of the&nbsp;Moment",
+                "date": "May 3, 2017",
+                "format": false,
+                "excerpt": "Listen to the podcast that inspired a popular comic about changing one's beliefs.",
+                "rel": "",
+                "context": "In \"Comics\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/05\/brain-1618377_1920.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 10978,
+                "url": "https:\/\/discover.wordpress.com\/2016\/02\/28\/hunting-for-the-neuroscience-of-heat-and-violence\/",
+                "url_meta": {
+                    "origin": 42952,
+                    "position": 2
+                },
+                "title": "Hunting for the Neuroscience of Heat and&nbsp;Violence",
+                "date": "February 28, 2016",
+                "format": false,
+                "excerpt": "Why do people -- both individuals and societies -- become more aggressive as the temperatures rise? At Grist, Clayton Aldern digs into a question with far-reaching implications for our warming planet.",
+                "rel": "",
+                "context": "In \"Data\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/02\/shutterstock_51456787.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 42887,
+                "url": "https:\/\/discover.wordpress.com\/2020\/08\/10\/autistic-science-person\/",
+                "url_meta": {
+                    "origin": 42952,
+                    "position": 3
+                },
+                "title": "Autistic Science Person",
+                "date": "August 10, 2020",
+                "format": false,
+                "excerpt": "Autistic Science Person is the personal blog of an autistic grad student in neuroscience that was undiagnosed until adulthood. They are known on Twitter as @AspieHuman.",
+                "rel": "",
+                "context": "In \"Autism\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2020\/08\/scaled-person-blog-logo-neuron-color-final.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 20095,
+                "url": "https:\/\/discover.wordpress.com\/2016\/12\/08\/futurism\/",
+                "url_meta": {
+                    "origin": 42952,
+                    "position": 4
+                },
+                "title": "Futurism",
+                "date": "December 8, 2016",
+                "format": false,
+                "excerpt": "A leading web destination for the latest news, infographics, and videos on the science and technology that are shaping our future, from artificial intelligence and robotics to virtual reality.",
+                "rel": "",
+                "context": "In \"Culture\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/11\/augmented-reality-1853592_1920-e1480493721573.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 4586,
+                "url": "https:\/\/discover.wordpress.com\/2015\/06\/10\/this-is-probably-a-good-time-to-say-that-i-dont-believe-robots-will-eat-all-the-jobs-marc-andreessen\/",
+                "url_meta": {
+                    "origin": 42952,
+                    "position": 5
+                },
+                "title": "This is Probably a Good Time to Say That I Don\u2019t Believe Robots Will Eat All the&nbsp;Jobs",
+                "date": "June 10, 2015",
+                "format": false,
+                "excerpt": "Marc Andreessen on robots: \"Even when robots and AI are far more powerful, there will still be many things that people can do that robots and AI can\u2019t.\"",
+                "rel": "",
+                "context": "In \"Internet\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/06\/robot3.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/visual-priority-neuroscienews-public-390x390-1.jpg",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-baM",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42952"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/118930156"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42952"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42952\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42955,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42952\/revisions\/42955"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42953"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42952"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42952"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42952"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42952"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42893,
+        "date": "2020-08-13T10:00:37",
+        "date_gmt": "2020-08-13T14:00:37",
+        "guid": {
+            "rendered": "https:\/\/discover.wordpress.com\/?p=42893"
+        },
+        "modified": "2020-08-13T12:15:04",
+        "modified_gmt": "2020-08-13T16:15:04",
+        "slug": "red-herring-games",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/13\/red-herring-games\/",
+        "title": {
+            "rendered": "Red Herring Games: Navigating a Business During a&nbsp;Pandemic"
+        },
+        "content": {
+            "rendered": "<p><span style=\"font-weight:400;\">Ever wanted to gather your friends around a dinner table and accuse them of murder? Hopefully, your friend group dynamic has never actually got that dark \u2014 but that is the general concept behind <a href=\"https:\/\/www.red-herring-games.com\/\">Red Herring Games&#8217;<\/a> murder mystery games! Groups get together, dress up to fit the setting of the game \u2014 from the Orient Express, to a 1920s house party \u2014 and play the characters assigned to them in order to guess the murderer in their midst.\u00a0<\/span><\/p>\r\n<p><span style=\"font-weight:400;\">Red Herring Games are masters at this concept and have won numerous awards for their murder mystery games, <\/span><span style=\"font-weight:400;\">including the Small Awards: Home and Away Award. They were named one of the 2016 Top 100 Small Business Saturday winners which led to them exhibiting at No. 10 Downing Street (headquarters of the British Prime Minister).<\/span><\/p>\r\n<p><span style=\"font-weight:400;\">However, the onset of COVID-19 obviously made group gatherings difficult and had a huge impact on any business models based around hosting events. We talked to the \u201cChief Candlesitck Wielder,\u201d Jo Smedley, about how having a WordPress website has helped them to navigate the pandemic.\u00a0<\/span><\/p>\r\n<figure data-shortcode=\"caption\" id=\"attachment_42899\" aria-describedby=\"caption-attachment-42899\" style=\"width: 2278px\" class=\"wp-caption aligncenter\"><img loading=\"lazy\" data-attachment-id=\"42899\" data-permalink=\"https:\/\/discover.wordpress.com\/2020\/08\/13\/red-herring-games\/screen-shot-2020-08-10-at-4-22-05-pm\/\" data-orig-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png\" data-orig-size=\"2278,1530\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Screen Shot 2020-08-10 at 4.22.05 PM\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Jo Smedley, Courtesy of Red Herring Games. &lt;\/p&gt;\n\" data-medium-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png?w=315\" data-large-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png?w=1220\" class=\"wp-image-42899 size-full\" src=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png\" alt=\"\" width=\"2278\" height=\"1530\" srcset=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png 2278w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png?w=150&amp;h=101 150w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png?w=315&amp;h=212 315w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png?w=768&amp;h=516 768w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.05-pm.png?w=1220&amp;h=819 1220w\" sizes=\"(max-width: 2278px) 100vw, 2278px\" \/><figcaption id=\"caption-attachment-42899\" class=\"wp-caption-text\">Jo Smedley, Courtesy of Red Herring Games.<\/figcaption><\/figure>\r\n<p><b>Why did you first decide to use WordPress for your business website?<\/b><\/p>\r\n<p><span style=\"font-weight:400;\">We switched to WordPress a few years ago when we redesigned the website \u2014 for the fourth time! We don\u2019t sell a standard product, which meant we needed a shop that could have a lot of information pages as well as the ability to check out. We wrote a big wishlist for our website designer and WordPress with its plugins did nearly everything on that list \u2014 and was far easier to maintain and use from our side than the other platforms we\u2019d used previously.<\/span><\/p>\r\n<p><b>How do you find using WooCommerce as your payment method?<\/b><b>\u00a0<\/b><\/p>\r\n<p><span style=\"font-weight:400;\">WooCommerce has been really easy to use and it\u2019s never caused us any issues. We sell both physical and downloadable products and it handles delivery of both really easily.<\/span><\/p>\r\n<figure data-shortcode=\"caption\" id=\"attachment_42904\" aria-describedby=\"caption-attachment-42904\" style=\"width: 777px\" class=\"wp-caption aligncenter\"><img loading=\"lazy\" data-attachment-id=\"42904\" data-permalink=\"https:\/\/discover.wordpress.com\/2020\/08\/13\/red-herring-games\/screen-shot-2020-08-10-at-4-19-53-pm\/\" data-orig-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png\" data-orig-size=\"1084,1446\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Screen Shot 2020-08-10 at 4.19.53 PM\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Courtesy of Red Herring Games&lt;\/p&gt;\n\" data-medium-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png?w=311\" data-large-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png?w=768\" class=\"wp-image-42904 size-large\" src=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png?w=685\" alt=\"\" width=\"685\" height=\"914\" srcset=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png?w=685 685w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png?w=112 112w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png?w=311 311w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png?w=768 768w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.53-pm.png 1084w\" sizes=\"(max-width: 685px) 100vw, 685px\" \/><figcaption id=\"caption-attachment-42904\" class=\"wp-caption-text\">Courtesy of Red Herring Games<\/figcaption><\/figure>\r\n<p><strong>As well as selling products on your main Red Herring Games site, you have a website called <a href=\"https:\/\/www.cosykiller.com\/\">Cosy Killer<\/a>, dedicated to a subscription-based murder mystery game.<\/strong><b>\u00a0What are the advantages of that?\u00a0<\/b><\/p>\r\n<p><span style=\"font-weight:400;\">Subscription products level out the peaks and troughs in our seasonal business (Christmas is our busiest time). It\u2019s been our biggest development in the last three years \u2014 and we\u2019ve been able to take our subscription site from a standing start to trading at a similar level to our main business within just three years. That isn\u2019t to say we haven\u2019t put a LOT of marketing into it, and advertising costs have been high too \u2014 but it\u2019s grown exponentially.<\/span><\/p>\r\n<figure data-shortcode=\"caption\" id=\"attachment_42901\" aria-describedby=\"caption-attachment-42901\" style=\"width: 1734px\" class=\"wp-caption aligncenter\"><img loading=\"lazy\" data-attachment-id=\"42901\" data-permalink=\"https:\/\/discover.wordpress.com\/2020\/08\/13\/red-herring-games\/screen-shot-2020-08-10-at-4-16-30-pm-1\/\" data-orig-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png\" data-orig-size=\"1734,1418\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Screen Shot 2020-08-10 at 4.16.30 PM (1)\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Courtesy of Cosy Killer &lt;\/p&gt;\n\" data-medium-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png?w=315\" data-large-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png?w=1220\" class=\"wp-image-42901 size-full\" src=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png\" alt=\"\" width=\"1734\" height=\"1418\" srcset=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png 1734w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png?w=150&amp;h=123 150w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png?w=315&amp;h=258 315w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png?w=768&amp;h=628 768w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.16.30-pm-1.png?w=1220&amp;h=998 1220w\" sizes=\"(max-width: 1734px) 100vw, 1734px\" \/><figcaption id=\"caption-attachment-42901\" class=\"wp-caption-text\">Courtesy of Cosy Killer<\/figcaption><\/figure>\r\n<p><b>What is your marketing strategy for promoting your sites?<\/b><\/p>\r\n<p><span style=\"font-weight:400;\">We use a combination of SEO, paid-for Google AdWords, Facebook ads, and more traditional, free, social media posts, email campaigns, and piggyback marketing for the other services we offer in with the mail order. We\u2019ve also worked in tandem with a lot of other small businesses \u2014 inserting flyers into their mail order or running competitions together.<\/span> <span style=\"font-weight:400;\">The blog is also a useful method to communicate with potential customers. We often signpost to articles we\u2019ve written on the blog to support our subscription business puzzle solvers, or for those on our party business who are looking for more information. It also helps SEO page ranking.<\/span><\/p>\r\n<figure data-shortcode=\"caption\" id=\"attachment_42897\" aria-describedby=\"caption-attachment-42897\" style=\"width: 1130px\" class=\"wp-caption aligncenter\"><img loading=\"lazy\" data-attachment-id=\"42897\" data-permalink=\"https:\/\/discover.wordpress.com\/2020\/08\/13\/red-herring-games\/screen-shot-2020-08-10-at-4-17-54-pm\/\" data-orig-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png\" data-orig-size=\"1130,1482\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Screen Shot 2020-08-10 at 4.17.54 PM\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Courtesy of Red Herring Games &lt;\/p&gt;\n\" data-medium-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png?w=315\" data-large-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png?w=781\" class=\"wp-image-42897 size-full\" src=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png\" alt=\"\" width=\"1130\" height=\"1482\" srcset=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png 1130w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png?w=114&amp;h=150 114w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png?w=315&amp;h=413 315w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.17.54-pm.png?w=768&amp;h=1007 768w\" sizes=\"(max-width: 1130px) 100vw, 1130px\" \/><figcaption id=\"caption-attachment-42897\" class=\"wp-caption-text\">Courtesy of Red Herring Games<\/figcaption><\/figure>\r\n<p><b>How have you adapted to the difficulties posed by COVID-19?\u00a0<\/b><\/p>\r\n<p><span style=\"font-weight:400;\">We had no idea how COVID-19 would affect our business and spent the first four weeks of the outbreak seeing refund after refund going through the account. If it hadn\u2019t been for the government grant at the end of March I wouldn\u2019t have had enough money to pay my staff wages. We spent two weeks rethinking our website strategy and made some changes to our WordPress site.\u00a0\u00a0<\/span><\/p>\r\n<p><span style=\"font-weight:400;\">In early April, things turned around dramatically and we saw sales in a six week period that were equivalent to an entire year\u2019s worth of sales in the business! It was crazy!<\/span> <span style=\"font-weight:400;\">We have always sold <a href=\"https:\/\/www.red-herring-games.com\/virtual-murder-mystery-games\/\">downloadable games<\/a>, but up until the outbreak we\u2019d seen a massive shift from people preferring the boxed sets to our downloadable versions. During the outbreak, no one was visiting shops and the fact all our games were downloadable was suddenly a massive advantage as they enabled everyone to play remotely while in lockdown. The simplicity of our WordPress website meant we were rapidly able to revise our website for this virtual landscape and capture these sales when we needed them.\u00a0<\/span><\/p>\r\n<p><span style=\"font-weight:400;\">We\u2019ve also seen a big shift in our <a href=\"https:\/\/www.red-herring-games.com\/murder-mystery-events\/\">event bookings<\/a>, with more bookings for virtual events than ever before \u2014 and again \u2014 that\u2019s all thanks to us being able to revise the information pages within our website quickly to follow that new trend.<\/span><\/p>\r\n<figure data-shortcode=\"caption\" id=\"attachment_42903\" aria-describedby=\"caption-attachment-42903\" style=\"width: 2028px\" class=\"wp-caption aligncenter\"><img loading=\"lazy\" data-attachment-id=\"42903\" data-permalink=\"https:\/\/discover.wordpress.com\/2020\/08\/13\/red-herring-games\/screen-shot-2020-08-10-at-4-22-40-pm\/\" data-orig-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png\" data-orig-size=\"2028,1520\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Screen Shot 2020-08-10 at 4.22.40 PM\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Courtesy of Red Herring Games &lt;\/p&gt;\n\" data-medium-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png?w=315\" data-large-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png?w=1220\" class=\"wp-image-42903 size-full\" src=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png\" alt=\"\" width=\"2028\" height=\"1520\" srcset=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png 2028w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png?w=150&amp;h=112 150w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png?w=315&amp;h=236 315w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png?w=768&amp;h=576 768w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.22.40-pm.png?w=1220&amp;h=914 1220w\" sizes=\"(max-width: 2028px) 100vw, 2028px\" \/><figcaption id=\"caption-attachment-42903\" class=\"wp-caption-text\">Courtesy of Red Herring Games<\/figcaption><\/figure>\r\n<p><b>Is there any advice you would like to offer new online entrepreneurs?\u00a0<\/b><\/p>\r\n<p><span style=\"font-weight:400;\">The best advice I can give is not to overstock. Stock is cash you can\u2019t use. You might think something will sell really well, but if it doesn\u2019t you\u2019re stuck with that cash tied up in stock too long and it\u2019ll cause your business cash flow issues. Although you can be tricked into bulk buying because the numbers look good \u2014 it\u2019s actually better to buy in smaller quantities and see less profit in order to keep your cash flow healthy.\u00a0 It\u2019s even better if you can buy only once the orders are in \u2014 so look for suppliers who will work with you to ship on demand. That way you don\u2019t hold the stock yourself. It may be the difference between making a 20% or a 50% profit on an item \u2014 but that\u2019s 30% cash you\u2019re retaining in your business.<\/span> <img loading=\"lazy\" data-attachment-id=\"42905\" data-permalink=\"https:\/\/discover.wordpress.com\/2020\/08\/13\/red-herring-games\/screen-shot-2020-08-10-at-4-19-01-pm\/\" data-orig-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png\" data-orig-size=\"2414,936\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\" data-image-title=\"Screen Shot 2020-08-10 at 4.19.01 PM\" data-image-description=\"\" data-image-caption=\"\" data-medium-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=315\" data-large-file=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=1220\" class=\"aligncenter wp-image-42905 size-large\" src=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=685\" alt=\"\" width=\"685\" height=\"266\" srcset=\"https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=685 685w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=1370 1370w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=150 150w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=315 315w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=768 768w, https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.19.01-pm.png?w=1220 1220w\" sizes=\"(max-width: 685px) 100vw, 685px\" \/><\/p>\r\n<hr class=\"wp-block-separator\" \/><!-- \/wp:separator -->\r\n\r\n<!-- wp:paragraph -->\r\n<p style=\"text-align:center;\"><strong>Want to take your business online? Start a site today:<\/strong><\/p>\r\n<p style=\"text-align:center;\"><a class=\"button is-primary\" style=\"font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;\" href=\"https:\/\/wordpress.com\/business?utm_source=editorial&amp;utm_medium=discover&amp;utm_campaign=red-herring-game&amp;utm_term=business&amp;utm_content=post_signoff_button\" rel=\"nofollow\">Sign up<\/a><\/p>",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>How having a WordPress site helped this business survive the challenge of COVID-19. <\/p>\n",
+            "protected": false
+        },
+        "author": 118930156,
+        "featured_media": 42909,
+        "comment_status": "open",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "Find out how Red Herring Games used their website to cope with the difficulties of COVID-19.",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            179,
+            11160,
+            107,
+            831
+        ],
+        "tags": [
+            701995526,
+            694479852,
+            1383990,
+            81514,
+            304502651,
+            122657,
+            8420170,
+            48443796
+        ],
+        "discover_fp_post_format": [
+            20799
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 12624,
+                "url": "https:\/\/discover.wordpress.com\/2016\/04\/13\/a-splash-of-red\/",
+                "url_meta": {
+                    "origin": 42893,
+                    "position": 0
+                },
+                "title": "A Splash of&nbsp;Red",
+                "date": "April 13, 2016",
+                "format": false,
+                "excerpt": "In this piece at Narratively, murder mystery novelist Gabriel Cohen unwittingly rents an apartment where a homicide took place.",
+                "rel": "",
+                "context": "In \"Longreads\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/04\/countryside-house-farm-fence-large.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 42241,
+                "url": "https:\/\/discover.wordpress.com\/2020\/07\/03\/cosy-killer-the-murder-mystery-subscription-box\/",
+                "url_meta": {
+                    "origin": 42893,
+                    "position": 1
+                },
+                "title": "Cosy Killer: The Murder Mystery Subscription&nbsp;Box",
+                "date": "July 3, 2020",
+                "format": false,
+                "excerpt": "Cosykiller is not just a subscription box! Cosykiller is a storyline \u2014 with each box packed with clues, keepsakes, ciphers, and mementos to review and unravel to solve a murder.",
+                "rel": "",
+                "context": "In \"Business\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2020\/06\/box-4.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 42810,
+                "url": "https:\/\/discover.wordpress.com\/2020\/07\/24\/how-to-host-a-virtual-party\/",
+                "url_meta": {
+                    "origin": 42893,
+                    "position": 2
+                },
+                "title": "How To Host A Virtual&nbsp;Party",
+                "date": "July 24, 2020",
+                "format": false,
+                "excerpt": "Social distancing does not mean you can't party! This blog post by Red Herring games explains how to host a party virtually.",
+                "rel": "",
+                "context": "In \"Inspiration\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2020\/07\/screen-shot-2020-07-23-at-12.01.48-pm.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 31878,
+                "url": "https:\/\/discover.wordpress.com\/2018\/02\/24\/taken-stories-of-missing-and-murdered-indigenous-women\/",
+                "url_meta": {
+                    "origin": 42893,
+                    "position": 3
+                },
+                "title": "TAKEN: Stories of Missing and Murdered Indigenous&nbsp;Women",
+                "date": "February 24, 2018",
+                "format": false,
+                "excerpt": "Taken is a television series dedicated to telling the individual stories of the more than 1,000 indigenous women who have gone missing or have been murdered in Canada.",
+                "rel": "",
+                "context": "In \"Current Events\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2018\/02\/sea-sky-sunset-water.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 38749,
+                "url": "https:\/\/discover.wordpress.com\/2019\/10\/09\/medieval-mp-of-the-month-please-sir-can-i-have-one-more-the-marriages-and-murders-of-the-harcourt-brothers-of-oxfordshire-%ef%bb%bf\/",
+                "url_meta": {
+                    "origin": 42893,
+                    "position": 4
+                },
+                "title": "The marriages and murders of the Harcourt brothers of Oxfordshire&nbsp;\ufeff",
+                "date": "October 9, 2019",
+                "format": false,
+                "excerpt": "\"Since this had left him without a wife, he asked to be absolved from the crime of murder, and to be granted dispensation to marry again.\" Dr. Hannes Kleineke explores the Harcourt brothers in a blog dedicated to medieval members of the Parliament of England.",
+                "rel": "",
+                "context": "In \"Academia\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2019\/10\/hop-blog-logo-5.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 2961,
+                "url": "https:\/\/discover.wordpress.com\/2015\/04\/30\/charlie-hebdo-pen-and-the-wrong-kind-of-free-speech\/",
+                "url_meta": {
+                    "origin": 42893,
+                    "position": 5
+                },
+                "title": "Charlie Hebdo, PEN, and the \u201cWrong\u201d Kind of Free&nbsp;Speech",
+                "date": "April 30, 2015",
+                "format": false,
+                "excerpt": "My question for the six boycotters is this: if you cannot physically bear to sit in a room and show solidarity with people who have been murdered for drawing cartoons -- murder being the most terminal form of censorship -- then what is the point of belonging to PEN at\u2026",
+                "rel": "",
+                "context": "In \"Culture\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "",
+                    "width": 0,
+                    "height": 0
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/screen-shot-2020-08-10-at-4.46.42-pm.png",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-b9P",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42893"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/118930156"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42893"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 46,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42893\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42947,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42893\/revisions\/42947"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42909"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42893"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42893"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42893"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42893"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42871,
+        "date": "2020-08-13T09:00:45",
+        "date_gmt": "2020-08-13T13:00:45",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42871"
+        },
+        "modified": "2020-08-08T03:09:30",
+        "modified_gmt": "2020-08-08T07:09:30",
+        "slug": "how-to-heal-a-poem",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/13\/how-to-heal-a-poem\/",
+        "title": {
+            "rendered": "&#8220;how to heal&#8221;: A&nbsp;Poem"
+        },
+        "content": {
+            "rendered": "<p>From Rarasaur: &#8220;Pack your cells with joy until it is what they know best, and what they trust most.&#8221;<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>From Rarasaur: &#8220;Pack your cells with joy until it is what they know best, and what they trust most.&#8221;<\/p>\n",
+            "protected": false
+        },
+        "author": 47411601,
+        "featured_media": 42874,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "\"If you want to heal, \/ you must first \/ find every bruised place.\"\r\nA recent poem from the ever-inspiring @Rarasaur, on pain and healing:",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            337,
+            10679,
+            107,
+            5316,
+            422
+        ],
+        "tags": [
+            1094,
+            12188,
+            34714
+        ],
+        "discover_fp_post_format": [
+            346750,
+            337879995
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 4222,
+                "url": "https:\/\/discover.wordpress.com\/2015\/06\/04\/mocking-your-sins-indigenous-laughter-as-healing\/",
+                "url_meta": {
+                    "origin": 42871,
+                    "position": 0
+                },
+                "title": "Mocking Your Sins: Indigenous Laughter as&nbsp;Healing",
+                "date": "June 4, 2015",
+                "format": false,
+                "excerpt": "Myacah Sampson on Native American appropriation: \"...in the mind of the American consciousness, Native Americans are dead. We\u2019re costumes to put on when one feels like getting in touch with nature, we\u2019re mere tools of 'artistic' expression...\"",
+                "rel": "",
+                "context": "In \"Culture\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/06\/screen-shot-2014-05-11-at-8-33-47-pm.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 26349,
+                "url": "https:\/\/discover.wordpress.com\/2017\/07\/04\/cancerroadtrip\/",
+                "url_meta": {
+                    "origin": 42871,
+                    "position": 1
+                },
+                "title": "CancerRoadTrip",
+                "date": "July 4, 2017",
+                "format": false,
+                "excerpt": "\"Because when the going gets tough, the tough go traveling.\" #CancerRoadTrip is Pat Wetzel's mission for health and healing.",
+                "rel": "",
+                "context": "In \"Exploration\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/06\/screen-shot-2017-06-21-at-3-41-12-pm.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 36253,
+                "url": "https:\/\/discover.wordpress.com\/2019\/02\/07\/learning-to-be-the-tortoise-not-the-hare\/",
+                "url_meta": {
+                    "origin": 42871,
+                    "position": 2
+                },
+                "title": "Learning to be the Tortoise, Not the&nbsp;Hare",
+                "date": "February 7, 2019",
+                "format": false,
+                "excerpt": "\"My identity for years was the lawyer who quit her job to eat soup. As I\u2019ve laid in bed on and off since 2017, I\u2019ve watched the travel industry and my fellow writers move on with their lives. Mine feels very stuck.\" Jodi Ettenberg, founder of\u00a0Legal Nomads,\u00a0muses on grief, healing,\u2026",
+                "rel": "",
+                "context": "In \"Health\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2019\/02\/csf-leak-update-be-the-tortoise-1591x1000.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 10030,
+                "url": "https:\/\/discover.wordpress.com\/2016\/02\/12\/rend-your-hearts-how-to-break-your-heart-this-lent\/",
+                "url_meta": {
+                    "origin": 42871,
+                    "position": 3
+                },
+                "title": "Rend Your Hearts: How to Break Your Heart This&nbsp;Lent",
+                "date": "February 12, 2016",
+                "format": false,
+                "excerpt": "\"[T]he ideal Christian heart is not unblemished, free of wear and tear. It is a heart broken time and time again; the brokenness not simply healed, but made beautiful by God filling the imperfections and remaking them.\"",
+                "rel": "",
+                "context": "In \"Religion\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/02\/s542254645981225944_p1_i1_w1936.jpeg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 30485,
+                "url": "https:\/\/discover.wordpress.com\/2017\/11\/23\/prodding-a-bruise-the-vulnerable-academic-body\/",
+                "url_meta": {
+                    "origin": 42871,
+                    "position": 4
+                },
+                "title": "Prodding A Bruise: the Vulnerable Academic&nbsp;Body",
+                "date": "November 23, 2017",
+                "format": false,
+                "excerpt": "\"Hope has its own distinct kind of pain. Allowing oneself to hope -- realistically, clear-sightedly, understanding the odds of change -- is tying your heart to your sleeve, vulnerable as a new bruise.\"",
+                "rel": "",
+                "context": "In \"Academia\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "",
+                    "width": 0,
+                    "height": 0
+                },
+                "classes": []
+            },
+            {
+                "id": 36565,
+                "url": "https:\/\/discover.wordpress.com\/2019\/03\/21\/knowing-when-to-rest\/",
+                "url_meta": {
+                    "origin": 42871,
+                    "position": 5
+                },
+                "title": "Knowing When to&nbsp;Rest",
+                "date": "March 21, 2019",
+                "format": false,
+                "excerpt": "\"I walked out of my Crossfit box the other day sobbing.\" At Barbell Asana, Crossfitter and yoga teacher Erica Varlese writes about taking a break from Crossfit so her body can retrain and heal.",
+                "rel": "",
+                "context": "In \"Health\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2019\/03\/screen-shot-2019-03-11-at-2.45.35-pm.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/dna-5297378_1920.jpg",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-b9t",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42871"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/47411601"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42871"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42871\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42875,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42871\/revisions\/42875"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42874"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42871"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42871"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42871"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42871"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42880,
+        "date": "2020-08-12T08:00:31",
+        "date_gmt": "2020-08-12T12:00:31",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42880"
+        },
+        "modified": "2020-08-10T12:15:29",
+        "modified_gmt": "2020-08-10T16:15:29",
+        "slug": "storysouth",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/12\/storysouth\/",
+        "title": {
+            "rendered": "storySouth"
+        },
+        "content": {
+            "rendered": "<p><em>storySouth<\/em>\u2019s showcases the best fiction, creative nonfiction, and poetry that writers from the new south have to offer.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p><em>storySouth<\/em>\u2019s showcases the best fiction, creative nonfiction, and poetry that writers from the new south have to offer.<\/p>\n",
+            "protected": false
+        },
+        "author": 13787501,
+        "featured_media": 42885,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "Site pick of the day @storySouth showcases the best fiction, creative nonfiction, and poetry that writers from the new south have to offer.",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            726,
+            304069
+        ],
+        "tags": [
+            148169,
+            8665819,
+            3750,
+            1861871,
+            91786
+        ],
+        "discover_fp_post_format": [
+            346750,
+            308219249
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 11491,
+                "url": "https:\/\/discover.wordpress.com\/2016\/03\/16\/change-seven-magazine\/",
+                "url_meta": {
+                    "origin": 42880,
+                    "position": 0
+                },
+                "title": "Change Seven Magazine",
+                "date": "March 16, 2016",
+                "format": false,
+                "excerpt": "An online literary journal publishing fiction, creative nonfiction, poetry, and visual art, with a preference for gritty realism, the experimental, and prose with bite. \"We like work that takes risks, that is morally unflinching.\"",
+                "rel": "",
+                "context": "In \"Fiction\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "",
+                    "width": 0,
+                    "height": 0
+                },
+                "classes": []
+            },
+            {
+                "id": 29361,
+                "url": "https:\/\/discover.wordpress.com\/2017\/10\/23\/the-citron-review\/",
+                "url_meta": {
+                    "origin": 42880,
+                    "position": 1
+                },
+                "title": "The Citron Review",
+                "date": "October 23, 2017",
+                "format": false,
+                "excerpt": "The editors at The Citron Review, who all met in the creative writing program at Antioch University of Los Angeles, share a passion for the short form -- \"powerful prose that packs a punch.\" They publish poetry, fiction, and creative nonfiction",
+                "rel": "",
+                "context": "In \"Fiction\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/10\/cropped-water-splash-on-lemon1829.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 42796,
+                "url": "https:\/\/discover.wordpress.com\/2020\/07\/21\/new-delta-review\/",
+                "url_meta": {
+                    "origin": 42880,
+                    "position": 2
+                },
+                "title": "New Delta Review",
+                "date": "July 21, 2020",
+                "format": false,
+                "excerpt": "New Delta Review is a literary and arts journal produced by MFA students at Louisiana State University. Find original fiction, poetry, creative nonfiction, reviews, interviews, and artwork by established and new writers and artists, with a focus on underrepresented voices.",
+                "rel": "",
+                "context": "In \"Academia\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2020\/07\/the-tower-e1595284318422.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 11766,
+                "url": "https:\/\/discover.wordpress.com\/2016\/03\/30\/heavy-feather-review\/",
+                "url_meta": {
+                    "origin": 42880,
+                    "position": 3
+                },
+                "title": "Heavy Feather Review",
+                "date": "March 30, 2016",
+                "format": false,
+                "excerpt": "A literary arts annual from editors Jason Teal and Nathan Floom, publishing \"fiction, poetry, creative nonfiction, drama, comics, or any hybrid thereof\" along with book reviews and interviews.",
+                "rel": "",
+                "context": "In \"Books\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/03\/heavy-feather-review.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 30676,
+                "url": "https:\/\/discover.wordpress.com\/2017\/12\/16\/banango-street\/",
+                "url_meta": {
+                    "origin": 42880,
+                    "position": 4
+                },
+                "title": "Banango Street",
+                "date": "December 16, 2017",
+                "format": false,
+                "excerpt": "Banango Street is a thrice-yearly literary journal that publishes poetry, fiction, and creative nonfiction.",
+                "rel": "",
+                "context": "In \"Journals &amp; Magazines\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/12\/just-become-whoever-youre-around-its-easier.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 15799,
+                "url": "https:\/\/discover.wordpress.com\/2016\/07\/09\/open-thought-vortex\/",
+                "url_meta": {
+                    "origin": 42880,
+                    "position": 5
+                },
+                "title": "Open Thought Vortex",
+                "date": "July 9, 2016",
+                "format": false,
+                "excerpt": "Find fiction, poetry, and nonfiction that goes \"off the deep end with a splash of clarity\" at this boundary-pushing online journal.",
+                "rel": "",
+                "context": "In \"Fiction\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/07\/open-thought-vortex-facebook-1.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/pexels-derwin-edwards-4001539-e1597076087382.jpg",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-b9C",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42880"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/13787501"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42880"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42880\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42884,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42880\/revisions\/42884"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42885"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42880"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42880"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42880"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42880"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42887,
+        "date": "2020-08-10T18:34:28",
+        "date_gmt": "2020-08-10T22:34:28",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42887"
+        },
+        "modified": "2020-08-10T18:34:28",
+        "modified_gmt": "2020-08-10T22:34:28",
+        "slug": "autistic-science-person",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/10\/autistic-science-person\/",
+        "title": {
+            "rendered": "Autistic Science Person"
+        },
+        "content": {
+            "rendered": "\n<p><em>Autistic Science Person<\/em> is the personal blog of an autistic grad student in neuroscience that was undiagnosed until adulthood. They are known on Twitter as @AspieHuman.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p><em>Autistic Science Person<\/em> is the personal blog of an autistic grad student in neuroscience that was undiagnosed until adulthood. They are known on Twitter as @AspieHuman.<\/p>\n",
+            "protected": false
+        },
+        "author": 10183950,
+        "featured_media": 42891,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "\"Autistic Science Person\" is the personal blog of an autistic grad student in neuroscience. ",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            12360,
+            47458,
+            10679,
+            5316,
+            173
+        ],
+        "tags": [
+            3471,
+            333023,
+            40576,
+            32307
+        ],
+        "discover_fp_post_format": [
+            346750,
+            308219249
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 16373,
+                "url": "https:\/\/discover.wordpress.com\/2016\/07\/29\/autistic-innerspace-comic-no-70\/",
+                "url_meta": {
+                    "origin": 42887,
+                    "position": 0
+                },
+                "title": "Autistic InnerSpace Comic&nbsp;No.70",
+                "date": "July 29, 2016",
+                "format": false,
+                "excerpt": "In comic #70 from Autistic InnerSpace, artist Helen illustrates the power of connecting with others online.",
+                "rel": "",
+                "context": "In \"Comics\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/07\/comic70.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 26098,
+                "url": "https:\/\/discover.wordpress.com\/2017\/06\/01\/losing-a-pet-in-an-autistic-household\/",
+                "url_meta": {
+                    "origin": 42887,
+                    "position": 1
+                },
+                "title": "Losing a Pet in an Autistic&nbsp;Household",
+                "date": "June 1, 2017",
+                "format": false,
+                "excerpt": "On how an Autistic son copes with loss: \"At last, he asked how I felt. A grief inquisition ensued. As if he knew emotion collapses me inward, Tyoma tugged and pulled each word out of me, like an invasive, but beneficial medical procedure.\"",
+                "rel": "",
+                "context": "In \"Autism\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/06\/pearlgoodbye1.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 12809,
+                "url": "https:\/\/discover.wordpress.com\/2016\/04\/13\/re-thinking-things-through-an-autistic-filter\/",
+                "url_meta": {
+                    "origin": 42887,
+                    "position": 2
+                },
+                "title": "Re-thinking Things Through an Autistic&nbsp;Filter",
+                "date": "April 13, 2016",
+                "format": false,
+                "excerpt": "\"How do you explain to someone what it\u2019s like to not have something that you don\u2019t even know exists? It\u2019s like trying to describe silence to someone who has always lived their life beneath a roaring waterfall. They won\u2019t hear the water. They\u2019ll take it for granted. They\u2019ll say, 'This\u2026",
+                "rel": "",
+                "context": "In \"Autism\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/04\/image.jpeg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 14372,
+                "url": "https:\/\/discover.wordpress.com\/2016\/05\/20\/the-invisibility-of-black-autism\/",
+                "url_meta": {
+                    "origin": 42887,
+                    "position": 3
+                },
+                "title": "The Invisibility of Black&nbsp;Autism",
+                "date": "May 20, 2016",
+                "format": false,
+                "excerpt": "Steve Silberman, the author of NeuroTribes: The Legacy of Autism and the Future of Neurodiversity, explores the challenges faced by autistic people of color in gaining access to proper health care.",
+                "rel": "",
+                "context": "In \"Autism\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/05\/bwpuzzle.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 7463,
+                "url": "https:\/\/discover.wordpress.com\/2015\/12\/06\/i-am-emma\/",
+                "url_meta": {
+                    "origin": 42887,
+                    "position": 4
+                },
+                "title": "I am Emma",
+                "date": "December 6, 2015",
+                "format": false,
+                "excerpt": "\"There is no lack of empathy, but rather an unmanageable abundance that defies my best intentions.\" Emma Zurcher-Long is Autistic. What she can't communicate with speech is ably made up for by her piercing writing.",
+                "rel": "",
+                "context": "In \"Autism\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/12\/2015-10-06_emma_pt_272.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 12453,
+                "url": "https:\/\/discover.wordpress.com\/2016\/04\/05\/its-okay-to-say-autism\/",
+                "url_meta": {
+                    "origin": 42887,
+                    "position": 5
+                },
+                "title": "It\u2019s Okay to Say &#8220;Autism&#8221;",
+                "date": "April 5, 2016",
+                "format": false,
+                "excerpt": "April is Autism Awareness Month, and at The Autistic Beekeeper, Stef talks about the reluctance of many people -- including close friends and family -- to even utter the word \"autism.\"",
+                "rel": "",
+                "context": "In \"Autism\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/04\/texture-1108420_1920.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/scaled-person-blog-logo-neuron-color-final.png",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-b9J",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42887"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/10183950"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42887"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 3,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42887\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42892,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42887\/revisions\/42892"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42891"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42887"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42887"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42887"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42887"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42862,
+        "date": "2020-08-07T09:00:06",
+        "date_gmt": "2020-08-07T13:00:06",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42862"
+        },
+        "modified": "2020-08-06T13:17:50",
+        "modified_gmt": "2020-08-06T17:17:50",
+        "slug": "earthship-biotecture",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/07\/earthship-biotecture\/",
+        "title": {
+            "rendered": "Earthship Biotecture"
+        },
+        "content": {
+            "rendered": "<p>Specialists in modern off-grid design, systems and construction. You can buy your own plans, or join the Earthship Academy to learn how to build an off-grid home.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Specialists in modern off-grid design, systems and construction. You can buy your own plans, or join the Earthship Academy to learn how to build an off-grid home.<\/p>\n",
+            "protected": false
+        },
+        "author": 118930156,
+        "featured_media": 42863,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "Learn how to build an off-grid home on the #PoweredByWordPress site Earthship Biotecture.",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            2290,
+            11160,
+            107,
+            48443796
+        ],
+        "tags": [
+            2290,
+            148,
+            1283416,
+            7412481,
+            91015,
+            518211,
+            15667187
+        ],
+        "discover_fp_post_format": [
+            346750,
+            337879995
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 18881,
+                "url": "https:\/\/discover.wordpress.com\/2016\/10\/26\/the-100-project-in-detroit\/",
+                "url_meta": {
+                    "origin": 42862,
+                    "position": 0
+                },
+                "title": "The 100 Project in&nbsp;Detroit",
+                "date": "October 26, 2016",
+                "format": false,
+                "excerpt": "\"46% of the small businesses in America are off the grid, meaning they are operating without a website. The idea of 100 Project is to transform small businesses in Detroit by getting 100 Detroit neighborhood businesses on the grid.\" \u00a0",
+                "rel": "",
+                "context": "In \"Business\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/10\/k72a4963_hajj_100proj_table2.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 39889,
+                "url": "https:\/\/discover.wordpress.com\/2020\/01\/07\/in-the-age-of-social-media-self-promotion-do-creatives-still-need-personal-websites\/",
+                "url_meta": {
+                    "origin": 42862,
+                    "position": 1
+                },
+                "title": "In the Age of Social Media Self-Promotion, Do Creatives Still Need Personal&nbsp;Websites?",
+                "date": "January 7, 2020",
+                "format": false,
+                "excerpt": "\u201cYou have freedom and control with your website. It stands out far more than a 3 x 3 grid of expandable pictures.\u201d Professionals in the design industry discuss the pros and cons of a website in the age of Instagram.",
+                "rel": "",
+                "context": "In \"Business\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2019\/12\/screencapture-99u-adobe-articles-64017-design-debate-in-the-age-of-social-media-self-promotion-do-creatives-still-need-personal-websites-2019-12-13-20_47_59.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 33136,
+                "url": "https:\/\/discover.wordpress.com\/2018\/04\/10\/professional-portfolio-themes\/",
+                "url_meta": {
+                    "origin": 42862,
+                    "position": 2
+                },
+                "title": "Showcase Your Art with These Professional Portfolio&nbsp;Themes",
+                "date": "April 10, 2018",
+                "format": false,
+                "excerpt": "These portfolio-style websites showcase the latest masterpieces of three artists.",
+                "rel": "",
+                "context": "In \"Art\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2018\/03\/three-artist-websites-featured-image.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 29666,
+                "url": "https:\/\/discover.wordpress.com\/2017\/11\/07\/best-photography-site-themes-ideas\/",
+                "url_meta": {
+                    "origin": 42862,
+                    "position": 3
+                },
+                "title": "A Brief Guide to Themes for Photography&nbsp;Sites",
+                "date": "November 7, 2017",
+                "format": false,
+                "excerpt": "A great photography site should look crisp regardless of format or device.",
+                "rel": "",
+                "context": "In \"Design\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/11\/null.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 25059,
+                "url": "https:\/\/discover.wordpress.com\/2017\/05\/09\/welcome-message\/",
+                "url_meta": {
+                    "origin": 42862,
+                    "position": 4
+                },
+                "title": "Well, Hello There: Set a Welcome Message on Your&nbsp;Site",
+                "date": "May 9, 2017",
+                "format": false,
+                "excerpt": "Introduce yourself -- or your business -- with a welcome message on your front page.",
+                "rel": "",
+                "context": "In \"Business\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/05\/4344878104_e746795618_o.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 40138,
+                "url": "https:\/\/discover.wordpress.com\/2020\/01\/13\/design-tips-2020\/",
+                "url_meta": {
+                    "origin": 42862,
+                    "position": 5
+                },
+                "title": "5 Design Tips for a Fresh Start in&nbsp;2020",
+                "date": "January 13, 2020",
+                "format": false,
+                "excerpt": "Hello, 2020! Here are five design tweaks to give your site a quick makeover.",
+                "rel": "",
+                "context": "In \"Design\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2020\/01\/design-tips-2020-header.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/08\/earthship-food-production-greenhouse.jpg",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-b9k",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42862"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/118930156"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42862"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 2,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42862\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42865,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42862\/revisions\/42865"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42863"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42862"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42862"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42862"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42862"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42832,
+        "date": "2020-08-05T06:00:12",
+        "date_gmt": "2020-08-05T10:00:12",
+        "guid": {
+            "rendered": "https:\/\/wordpress.com\/discover-wordpress\/?p=42832"
+        },
+        "modified": "2020-07-28T09:48:00",
+        "modified_gmt": "2020-07-28T13:48:00",
+        "slug": "marmalade-a-very-british-obsession",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/05\/marmalade-a-very-british-obsession\/",
+        "title": {
+            "rendered": "Marmalade: A Very British&nbsp;Obsession"
+        },
+        "content": {
+            "rendered": "<p>Captain Scott took jars to the Antarctic with him, and Edmund Hillary took one up Everest. Marmalade is part of the British national myth. Olivia Potts wants to know why.<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Captain Scott took jars to the Antarctic with him, and Edmund Hillary took one up Everest. Marmalade is part of the British national myth. Olivia Potts wants to know why.<\/p>\n",
+            "protected": false
+        },
+        "author": 13787501,
+        "featured_media": 42833,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "Captain Scott took jars to the Antarctic with him, and Edmund Hillary took one up Everest. Marmalade is part of the British national myth. @_Poots_ wants to know why. #marmalade #Britain #essay #longreads",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            6096,
+            858
+        ],
+        "tags": [
+            42606,
+            1189140,
+            1858942,
+            550518,
+            552044515
+        ],
+        "discover_fp_post_format": [
+            346750,
+            337879995
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 2955,
+                "url": "https:\/\/discover.wordpress.com\/2015\/04\/30\/white-rage-the-hunger-games-and-the-lack-of-justice-for-eric-garner\/",
+                "url_meta": {
+                    "origin": 42832,
+                    "position": 0
+                },
+                "title": "White Rage, The Hunger Games, and the Lack of Justice for Eric&nbsp;Garner",
+                "date": "April 30, 2015",
+                "format": false,
+                "excerpt": "Olivia A. Cole on white rage, The Hunger Games, and the deaths of unarmed men: \"I want the white people in the theater cheering for Katniss to look at the countless black lives that have been taken by police in America -- one every 28 hours -- without justice, and\u2026",
+                "rel": "",
+                "context": "In \"Commentary\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/04\/olivia-a-cole.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 3179,
+                "url": "https:\/\/discover.wordpress.com\/2015\/05\/08\/chris-brown-and-a-nation-of-raped-boys\/",
+                "url_meta": {
+                    "origin": 42832,
+                    "position": 1
+                },
+                "title": "Chris Brown and A Nation of Raped&nbsp;Boys",
+                "date": "May 8, 2015",
+                "format": false,
+                "excerpt": "\"And we wonder why our boys grow up sex-obsessed, equating violence with pleasure, and imagining that rape is only something that happens to women.\" Olivia A. Cole writes about Chris Brown -- and losing his virginity at age eight.",
+                "rel": "",
+                "context": "In \"Abuse\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/05\/chrisbrown3.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 5117,
+                "url": "https:\/\/discover.wordpress.com\/2015\/06\/23\/richard-sherman-thugs-and-black-humanity\/",
+                "url_meta": {
+                    "origin": 42832,
+                    "position": 2
+                },
+                "title": "Richard Sherman, Thugs, and Black&nbsp;Humanity",
+                "date": "June 23, 2015",
+                "format": false,
+                "excerpt": "American football player and Seahawks cornerback Richard Sherman is criticized for a post-game interview with Erin Andrews -- and later called a thug. Olivia A. Cole reflects on what this word really means: \"In order to be black and be regarded as human in America, you must shed all the\u2026",
+                "rel": "",
+                "context": "In \"Race\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/06\/maxresdefaultw741h417.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 36808,
+                "url": "https:\/\/discover.wordpress.com\/2019\/04\/03\/what-it-means-to-become-british\/",
+                "url_meta": {
+                    "origin": 42832,
+                    "position": 3
+                },
+                "title": "What it means to become&nbsp;British",
+                "date": "April 3, 2019",
+                "format": false,
+                "excerpt": "From Nadia El-Awady: \"I come from a culture that tends to glorify non-elected, autocratic, all-powerful leaders. They have to. The consequences of not doing so are not pretty. So I\u2019ve grown up with a disdain for the glorification of single human beings; even those that don\u2019t have much power.\"",
+                "rel": "",
+                "context": "In \"Commentary\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2019\/03\/screen-shot-2019-03-29-at-1.21.37-pm.png?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 11094,
+                "url": "https:\/\/discover.wordpress.com\/2016\/03\/02\/the-transgressive-beauty-of-knuckle-tattoos\/",
+                "url_meta": {
+                    "origin": 42832,
+                    "position": 4
+                },
+                "title": "The Transgressive Beauty of Knuckle&nbsp;Tattoos",
+                "date": "March 2, 2016",
+                "format": false,
+                "excerpt": "At Creative Review, Patrick Burgoyne interviews British photographer Edward Bishop on his long-term project: finding and documenting as many \"jobstoppers\" -- knuckle tattoos -- as he can.",
+                "rel": "",
+                "context": "In \"Interviews\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/03\/mg_9277.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 4941,
+                "url": "https:\/\/discover.wordpress.com\/2015\/06\/19\/the-canadian-rockies-day-three\/",
+                "url_meta": {
+                    "origin": 42832,
+                    "position": 5
+                },
+                "title": "The Canadian Rockies, Day&nbsp;Three",
+                "date": "June 19, 2015",
+                "format": false,
+                "excerpt": "Stunning images of the Canadian landscape by Kerry Mark Leibowitz, from Moraine Lake and Saddleback Mountain in Alberta's Banff National Park to Takakkaw Falls in Yoho National Park, British Columbia.",
+                "rel": "",
+                "context": "In \"Landscape\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/06\/banff_0817-0821_morraine_lake_de-tc.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2020\/07\/marmalade.jpg",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-b8Q",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42832"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/13787501"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42832"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42832\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42834,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42832\/revisions\/42834"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/42833"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42832"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42832"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42832"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42832"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 42835,
+        "date": "2020-08-04T09:00:28",
+        "date_gmt": "2020-08-04T13:00:28",
+        "guid": {
+            "rendered": "https:\/\/discover.wordpress.com\/?p=42835"
+        },
+        "modified": "2020-07-29T18:03:00",
+        "modified_gmt": "2020-07-29T22:03:00",
+        "slug": "finding-jesus-in-the-tear-gas",
+        "status": "publish",
+        "type": "post",
+        "link": "https:\/\/discover.wordpress.com\/2020\/08\/04\/finding-jesus-in-the-tear-gas\/",
+        "title": {
+            "rendered": "Finding Jesus in the Tear&nbsp;Gas"
+        },
+        "content": {
+            "rendered": "<p>&#8220;During the day, <a href=\"https:\/\/twitter.com\/ggfioravante\/status\/1276651741996605442\" target=\"_blank\" rel=\"noreferrer noopener\">MDP Circle <\/a>is a dreamy little slice of what could be without the tyrannical hand of the state. At night, the police gas and shoot anyone gathered there. The oscillation between joy and terror is exhausting.&#8221;<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>&#8220;During the day, MDP Circle is a dreamy little slice of what could be without the tyrannical hand of the state. At night, the police gas and shoot anyone gathered there. The oscillation between joy and terror is exhausting.&#8221;<\/p>\n",
+            "protected": false
+        },
+        "author": 2193192,
+        "featured_media": 2902,
+        "comment_status": "closed",
+        "ping_status": "closed",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": {
+            "advanced_seo_description": "",
+            "jetpack_seo_html_title": "",
+            "jetpack_seo_noindex": false,
+            "_coblocks_attr": "",
+            "_coblocks_dimensions": "",
+            "_coblocks_responsive_height": "",
+            "_coblocks_accordion_ie_support": "",
+            "jetpack_post_was_ever_published": false,
+            "jetpack_anchor_podcast": "",
+            "jetpack_anchor_episode": "",
+            "jetpack_anchor_spotify_show": "",
+            "jetpack_publicize_message": "Faith, police violence, and teargas at the #RVAprotests -- an essay about hope, at @CheatsMovement",
+            "jetpack_is_tweetstorm": false,
+            "jetpack_publicize_feature_enabled": true,
+            "jetpack_social_post_already_shared": false,
+            "jetpack_social_options": []
+        },
+        "categories": [
+            1304,
+            253221,
+            45357,
+            11798
+        ],
+        "tags": [
+            186378549,
+            703106514,
+            240726,
+            214,
+            700314338,
+            634953445,
+            310349,
+            1335205,
+            116,
+            26150,
+            54418
+        ],
+        "discover_fp_post_format": [
+            346750,
+            337879995
+        ],
+        "jetpack-related-posts": [
+            {
+                "id": 15882,
+                "url": "https:\/\/discover.wordpress.com\/2016\/07\/13\/yes-there-is-racial-bias-in-police-shootings\/",
+                "url_meta": {
+                    "origin": 42835,
+                    "position": 0
+                },
+                "title": "Yes, there is racial \u201cbias\u201d in police&nbsp;shootings.",
+                "date": "July 13, 2016",
+                "format": false,
+                "excerpt": "Is there evidence\u00a0of systemic racial bias in police shootings? A new study that says \"no\" isn't telling the whole story.",
+                "rel": "",
+                "context": "In \"Current Events\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/07\/bannertry20140623-1.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 23203,
+                "url": "https:\/\/discover.wordpress.com\/2017\/03\/02\/what-the-nobility-of-policing-requires\/",
+                "url_meta": {
+                    "origin": 42835,
+                    "position": 1
+                },
+                "title": "What the Nobility of Policing&nbsp;Requires",
+                "date": "March 2, 2017",
+                "format": false,
+                "excerpt": "A retired police sergeant on the need for the force to police itself more effectively: \"Whether it\u2019s a willful blind eye or an increasing tendency to conjure up some false equivalency in our collective hearts, we have created a situation where bad behavior lives within our ranks.\"",
+                "rel": "",
+                "context": "In \"Current Events\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2017\/02\/matt-popovich-60437.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 5251,
+                "url": "https:\/\/discover.wordpress.com\/2015\/06\/30\/meanwhile-just-outside-of-ferguson\/",
+                "url_meta": {
+                    "origin": 42835,
+                    "position": 2
+                },
+                "title": "Meanwhile, Just Outside of&nbsp;Ferguson",
+                "date": "June 30, 2015",
+                "format": false,
+                "excerpt": "\"I\u2019m still responding for calls about accidents and shootings and assaults and everything we always deal with. Life goes on, even when there\u2019s chaos.\" Don at Don of All Trades writes about life as usual as a police officer just outside of Ferguson in St. Louis, Missouri.",
+                "rel": "",
+                "context": "In \"Personal Musings\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/06\/basketball-net.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 3596,
+                "url": "https:\/\/discover.wordpress.com\/2015\/05\/26\/19f-the-night-venezuela-finally-imploded\/",
+                "url_meta": {
+                    "origin": 42835,
+                    "position": 3
+                },
+                "title": "19F \u2014 The Night Venezuela Finally&nbsp;Imploded",
+                "date": "May 26, 2015",
+                "format": false,
+                "excerpt": "\"But of course, this is no war zone: in a war zone you have two sides shooting at each other. Tonight one side is doing all the shooting, the other side is doing all the being shot at.\" Caracas Chronicles captures an explosive night of violence in February 2014.",
+                "rel": "",
+                "context": "In \"Current Events\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/05\/bg0af4hccaa-eoe-jpg-large.jpeg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 16030,
+                "url": "https:\/\/discover.wordpress.com\/2016\/07\/20\/no-virtual-reality-isnt-going-to-solve-americas-policing-problem\/",
+                "url_meta": {
+                    "origin": 42835,
+                    "position": 4
+                },
+                "title": "No, virtual reality isn&#8217;t going to solve America&#8217;s policing&nbsp;problem.",
+                "date": "July 20, 2016",
+                "format": false,
+                "excerpt": "Can virtual reality training help reduce\u00a0escalation in police encounters? Maybe not: \"You can fuss with...how to optimize contact between public and law enforcement, but sometimes the solution is simply for that contact not to occur.\"",
+                "rel": "",
+                "context": "In \"Jetpack\"",
+                "img": {
+                    "alt_text": "virtual reality police training",
+                    "src": "https:\/\/discover.files.wordpress.com\/2016\/07\/v300_homepage-1.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            },
+            {
+                "id": 3591,
+                "url": "https:\/\/discover.wordpress.com\/2015\/05\/23\/rio-de-janeiros-bope-and-police-pacification\/",
+                "url_meta": {
+                    "origin": 42835,
+                    "position": 5
+                },
+                "title": "Rio de Janeiro\u2019s BOPE and Police&nbsp;Pacification",
+                "date": "May 23, 2015",
+                "format": false,
+                "excerpt": "\"With much pomp and circumstance, Complexo da Mar\u00e9, the largest group of favelas in Rio de Janeiro, had officially begun the pacification process.\" At Anthropoliteia, Nicholas Barnes analyzes the \"pacification invasion\" and violence tactics of Rio de Janeiro\u2019s BOPE (Special Operations Police Battalion).",
+                "rel": "",
+                "context": "In \"Essay\"",
+                "img": {
+                    "alt_text": "",
+                    "src": "https:\/\/discover.files.wordpress.com\/2015\/05\/caveiracc83o.jpg?w=400&h=220&crop=1",
+                    "width": 400,
+                    "height": 220
+                },
+                "classes": []
+            }
+        ],
+        "jetpack_featured_media_url": "https:\/\/discover.files.wordpress.com\/2015\/04\/police-car.jpg",
+        "jetpack_publicize_connections": [],
+        "jetpack_shortlink": "https:\/\/wp.me\/p3Ca1O-b8T",
+        "jetpack_sharing_enabled": true,
+        "jetpack_likes_enabled": true,
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42835"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/types\/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/users\/2193192"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/comments?post=42835"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 4,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42835\/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 42839,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/posts\/42835\/revisions\/42839"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media\/2902"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/media?parent=42835"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/categories?post=42835"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/tags?post=42835"
+                },
+                {
+                    "taxonomy": "discover_fp_post_format",
+                    "embeddable": true,
+                    "href": "https:\/\/public-api.wordpress.com\/wp\/v2\/sites\/discover.wordpress.com\/discover_fp_post_format?post=42835"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

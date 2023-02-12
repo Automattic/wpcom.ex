@@ -4,8 +4,8 @@ defmodule Wpcom.MixProject do
   def project do
     [
       app: :wpcom,
-      version: "0.3.0",
-      elixir: "~> 1.9",
+      version: "0.8.0",
+      elixir: "~> 1.12",
       start_permanent: Mix.env() == :prod,
       description: description(),
       package: package(),
@@ -21,9 +21,10 @@ defmodule Wpcom.MixProject do
 
   defp deps do
     [
-      {:jason, "~> 1.1"},
-      {:mojito, "~> 0.7.2"},
-      {:retry, "~> 0.13"},
+      {:req, "~> 0.3.5"},
+      {:bandit, "~> 0.6.8", only: :test},
+      {:test_server, "~> 0.1.8", only: :test},
+      {:credo, "~> 1.6", only: :dev, runtime: false},
       {:dialyxir, "~> 1.2.0", only: :dev, runtime: false},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]

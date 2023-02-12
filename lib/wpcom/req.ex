@@ -5,34 +5,32 @@ defmodule Wpcom.Req do
   Accepts GET or POST types. Optional headers. JSON body.
   """
 
-  @type http_header :: {String.t(), String.t()}
-  @type http_headers :: [http_header]
-  @type http_response :: {:ok, String.t() | map} | {:error, Mojito.error()} | no_return
+  @type api_version :: :restV1 | :restV11 | :wpV2 | :wpcomV2 | :wpcomV3 | :wpcomV4
 
-  @doc "Make a request to WP.com REST API."
-  @spec request(:get | :post, String.t(), http_headers, String.t() | map) :: http_response
-  def request(method, url, custom_headers \\ [], body \\ "")
+  @api_versions [:restV1, :restV11, :wpV2, :wpcomV2, :wpcomV3, :wpcomV4]
+  @api_base %{
+    restV1: "https://public-api.wordpress.com/rest/v1",
+    restV11: "https://public-api.wordpress.com/rest/v1.1",
+    wpV2: "https://public-api.wordpress.com/wp/v2",
+    wpcomV2: "https://public-api.wordpress.com/wpcom/v2",
+    wpcomV3: "https://public-api.wordpress.com/wpcom/v3",
+    wpcomV4: "https://public-api.wordpress.com/wpcom/v4"
+  }
 
-  def request(method, url, custom_headers, body) when is_map(body) do
-    headers = custom_headers ++ [{"content-type", "application/json"}]
-    request(method, url, headers, Jason.encode!(body))
+  def get(api_version, path, params \\ []) when api_version in @api_versions do
+    Req.new()
+    |> Req.Request.put_header("user-agent", "wpcom.ex/" <> version())
+    |> Req.get(url: api_url(api_version, path), params: params)
   end
 
-  def request(method, url, custom_headers, body) do
-    headers = custom_headers ++ [{"user-agent", "wpcom.ex/" <> version()}]
-
-    Mojito.request(method, url, headers, body, pool: false)
-    |> case do
-      {:ok, response} -> {:ok, maybe_decode(response.body)}
-      error -> error
-    end
+  def post(api_version, path, %{} = body) when api_version in @api_versions do
+    Req.new()
+    |> Req.Request.put_header("user-agent", "wpcom.ex/" <> version())
+    |> Req.post(url: api_url(api_version, path), json: body)
   end
 
-  defp maybe_decode(string) do
-    case Jason.decode(string) do
-      {:ok, json} -> json
-      _ -> string
-    end
+  defp api_url(api_version, path) do
+    Application.get_env(:wpcom, :unit_test, @api_base[api_version]) <> path
   end
 
   defp version do

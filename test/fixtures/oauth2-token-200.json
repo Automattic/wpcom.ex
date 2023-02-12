@@ -1,0 +1,6 @@
+{
+    "access_token": "SOME_NIFTY_TOKEN",
+    "blog_id": "blog ID",
+    "blog_url": "blog url",
+    "token_type": "bearer"
+}

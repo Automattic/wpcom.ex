@@ -12,11 +12,22 @@ defmodule WpcomTest do
 
     TestServer.add(path, via: :get, to: &set_response(&1, 200, File.read!(fixture)))
 
-    {:ok, response} = Wpcom.Req.get(:wpV2, path)
+    {:ok, response} = Wpcom.discover()
 
     assert response.status == 200
     assert is_list(response.body)
     assert Enum.count(response.body) == 10
+  end
+
+  test "test/1" do
+    fixture = "test/fixtures/rest1dot1-test-200.json"
+    TestServer.add("/test/42", via: :get, to: &set_response(&1, 200, File.read!(fixture)))
+
+    {:ok, response} = Wpcom.test()
+
+    assert response.status == 200
+    assert response.body["default_int"] == 100
+    assert response.body["datetime"] == "2023-02-12T15:18:29+00:00"
   end
 
   defp set_response(conn, http_code, body) do

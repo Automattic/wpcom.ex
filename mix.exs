@@ -4,7 +4,7 @@ defmodule Wpcom.MixProject do
   def project do
     [
       app: :wpcom,
-      version: "0.8.0",
+      version: "1.0.0",
       elixir: "~> 1.12",
       start_permanent: Mix.env() == :prod,
       description: description(),

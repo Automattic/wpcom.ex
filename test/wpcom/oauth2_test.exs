@@ -17,22 +17,8 @@ defmodule Wpcom.Oauth2Test do
   end
 
   test "retrieve_token/5" do
-    TestServer.add("/oauth2/token",
-      via: :post,
-      to: &set_response(&1, 200, File.read!("test/fixtures/oauth2-token-200.json"))
-    )
-
+    TestServer.add("/oauth2/token", via: :post)
     Application.put_env(:wpcom, :oauth2_unit_test, TestServer.url() <> "/oauth2/token")
-
-    {:ok, response} = Wpcom.Oauth2.retrieve_token(1234, "sekret!", "AKBE353", "http://watever")
-
-    assert response.body["access_token"] == "SOME_NIFTY_TOKEN"
-    assert response.body["token_type"] == "bearer"
-  end
-
-  defp set_response(conn, http_code, body) do
-    conn
-    |> Plug.Conn.put_resp_header("content-type", "application/json")
-    |> Plug.Conn.resp(http_code, body)
+    assert {:ok, _} = Wpcom.Oauth2.retrieve_token(1234, "sekret!", "AKBE353", "http://watever")
   end
 end

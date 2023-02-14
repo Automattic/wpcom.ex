@@ -29,3 +29,13 @@ config :wpcom, :oauth2_token: "_YOUR_OAUTH2_TOKEN_HERE_"
 ```
 mix test
 ```
+
+## Static Analysis
+
+```
+mix dialyzer
+```
+
+```
+mix credo
+```

@@ -7,7 +7,7 @@ defmodule Wpcom.Sites do
     Wpcom.Req.get(:wpV2, "/sites/#{site}/users", params)
   end
 
-  def search(site, params) do
-    Wpcom.Req.get(:wpcomV1dot2, "/sites/#{site}/search", params)
+  def search(site, body) do
+    Wpcom.Req.post(:wpcomV1dot2, "/sites/#{site}/search", body)
   end
 end

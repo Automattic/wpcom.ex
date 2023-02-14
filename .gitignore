@@ -27,6 +27,3 @@ wpcomex-*.tar
 
 # Elixir LS
 .elixir_ls
-
-# Secrets
-/config/*.secret.exs

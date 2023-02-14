@@ -1,16 +1,10 @@
 version: 2
 updates:
-- package-ecosystem: mix
-  directory: "/"
-  schedule:
-    interval: daily
-    time: "11:00"
-  open-pull-requests-limit: 99
-  ignore:
-  - dependency-name: ex_doc
-    versions:
-    - 0.24.0
-    - 0.24.1
-  - dependency-name: mojito
-    versions:
-    - 0.7.6
+  - package-ecosystem: "mix"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"

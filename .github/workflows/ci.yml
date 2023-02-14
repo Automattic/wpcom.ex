@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        otp: [23, 25]
+        otp: [25]
         elixir: [1.12, 1.14]
     name: OTP ${{matrix.otp}} / Elixir ${{matrix.elixir}}
     steps:

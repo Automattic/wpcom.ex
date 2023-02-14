@@ -59,11 +59,6 @@ defmodule Wpcom.Oauth2 do
     )
   end
 
-  @spec auth_header :: {String.t(), String.t()}
-  def auth_header() do
-    {"authorization", "Bearer " <> Application.fetch_env!(:wpcom, :oauth2_token)}
-  end
-
   defp maybe_put(map, _key, nil), do: map
   defp maybe_put(map, key, value), do: Map.put(map, key, value)
 end

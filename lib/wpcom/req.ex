@@ -44,6 +44,7 @@ defmodule Wpcom.Req do
       when api_version in @api_versions and is_list(params) and is_list(headers) do
     Req.new()
     |> Req.Request.put_header("user-agent", "wpcom.ex/" <> version())
+    |> maybe_put_auth_header()
     |> put_custom_headers(headers)
     |> Req.get(url: api_url(api_version, path), params: params)
   end
@@ -52,6 +53,7 @@ defmodule Wpcom.Req do
       when api_version in @api_versions and is_map(body) and is_list(headers) do
     Req.new()
     |> Req.Request.put_header("user-agent", "wpcom.ex/" <> version())
+    |> maybe_put_auth_header()
     |> put_custom_headers(headers)
     |> Req.post(url: api_url(api_version, path), json: body)
   end
@@ -60,12 +62,23 @@ defmodule Wpcom.Req do
       when api_version in @api_versions and is_list(headers) do
     Req.new()
     |> Req.Request.put_header("user-agent", "wpcom.ex/" <> version())
+    |> maybe_put_auth_header()
     |> put_custom_headers(headers)
     |> Req.delete(url: api_url(api_version, path))
   end
 
   defp api_url(api_version, path) do
     Application.get_env(:wpcom, :unit_test, @api_base[api_version]) <> path
+  end
+
+  defp maybe_put_auth_header(req) do
+    case Application.fetch_env(:wpcom, :oauth2_token) do
+      {:ok, token} ->
+        Req.Request.put_header(req, "authorization", "Bearer #{token}")
+
+      _ ->
+        req
+    end
   end
 
   defp put_custom_headers(req, headers) do

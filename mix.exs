@@ -25,7 +25,7 @@ defmodule Wpcom.MixProject do
       {:bandit, "~> 0.7.3", only: :test},
       {:test_server, "~> 0.1.8", only: :test},
       {:credo, "~> 1.6", only: :dev, runtime: false},
-      {:dialyxir, "~> 1.2.0", only: :dev, runtime: false},
+      {:dialyxir, "~> 1.3.0", only: :dev, runtime: false},
       {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]
   end

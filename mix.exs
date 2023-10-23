@@ -21,7 +21,7 @@ defmodule Wpcom.MixProject do
 
   defp deps do
     [
-      {:req, "~> 0.3.5"},
+      {:req, "~> 0.4.4"},
       {:bandit, "~> 1.0.0", only: :test},
       {:test_server, "~> 0.1.8", only: :test},
       {:credo, "~> 1.6", only: :dev, runtime: false},

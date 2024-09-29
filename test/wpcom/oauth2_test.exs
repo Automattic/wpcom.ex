@@ -3,6 +3,7 @@ defmodule Wpcom.Oauth2Test do
 
   test "authorize_url/4" do
     url = Wpcom.Oauth2.authorize_url(42, "http://localhost:4000/something")
+
     assert_valid_authorize_url(url, %{
       scope: "auth",
       client_id: "42",
@@ -13,6 +14,7 @@ defmodule Wpcom.Oauth2Test do
 
   test "authorize_url/4 with specific blog" do
     url = Wpcom.Oauth2.authorize_url(42, "http://localhost:4000/something", :auth, 740)
+
     assert_valid_authorize_url(url, %{
       scope: "auth",
       client_id: "42",
@@ -24,6 +26,7 @@ defmodule Wpcom.Oauth2Test do
 
   test "authorize_url/4 with global scope" do
     url = Wpcom.Oauth2.authorize_url(42, "http://localhost:4000/something", :global)
+
     assert_valid_authorize_url(url, %{
       scope: "global",
       client_id: "42",
@@ -44,11 +47,13 @@ defmodule Wpcom.Oauth2Test do
     assert uri.scheme == "https"
     assert uri.host == "public-api.wordpress.com"
     assert uri.path == "/oauth2/authorize"
-    
+
     query_params = URI.decode_query(uri.query)
+
     Enum.each(expected_params, fn {key, value} ->
       assert Map.get(query_params, to_string(key)) == value
     end)
+
     assert map_size(query_params) == map_size(expected_params)
   end
 end

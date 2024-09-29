@@ -3,17 +3,17 @@ defmodule Wpcom.Oauth2Test do
 
   test "authorize_url/4" do
     assert Wpcom.Oauth2.authorize_url(42, "http://localhost:4000/something") ==
-             "https://public-api.wordpress.com/oauth2/authorize?client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code&scope=auth"
+             "https://public-api.wordpress.com/oauth2/authorize?scope=auth&client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code"
   end
 
   test "authorize_url/4 with specific blog" do
     assert Wpcom.Oauth2.authorize_url(42, "http://localhost:4000/something", :auth, 740) ==
-             "https://public-api.wordpress.com/oauth2/authorize?blog=740&client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code&scope=auth"
+             "https://public-api.wordpress.com/oauth2/authorize?scope=auth&client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code&blog=740"
   end
 
   test "authorize_url/4 with global scope" do
     assert Wpcom.Oauth2.authorize_url(42, "http://localhost:4000/something", :global) ==
-             "https://public-api.wordpress.com/oauth2/authorize?client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code&scope=global"
+             "https://public-api.wordpress.com/oauth2/authorize?scope=global&client_id=42&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsomething&response_type=code"
   end
 
   test "retrieve_token/5" do

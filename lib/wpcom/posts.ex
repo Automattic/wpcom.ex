@@ -1,4 +1,11 @@
 defmodule Wpcom.Posts do
+  @moduledoc """
+  Provides functions to interact with the WordPress.com API endpoints related to posts.
+
+  This module offers methods to create, retrieve, edit, delete, and list posts for a given site.
+  All functions require a site identifier and interact with the WordPress.com REST API v2.
+  """
+
   def create(site, data) when is_map(data) do
     Wpcom.Req.post(:wpV2, "/sites/#{site}/posts", data)
   end

@@ -28,7 +28,7 @@ jobs:
             otp: "26"
     name: OTP ${{matrix.otp}} / Elixir ${{matrix.elixir}}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: erlef/setup-beam@fc68ffb90438ef2936bbb3251622353b3dcb2f93 # v1.24.0
         with:
           otp-version: ${{matrix.otp}}
